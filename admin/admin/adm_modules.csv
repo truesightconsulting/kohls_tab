@@ -1,0 +1,14 @@
+label,module,status
+Cost Per Support,opt_input_cps,0
+Constraint Setup,opt_input_cstr,1
+Constraint Setup,opt_input_cstr_output,0
+Time Window,opt_input_curvegroup,0
+Time Window,opt_input_date_range,1
+Tab,opt_input_dim_chan,1
+Markets,opt_input_dim_dma,1
+Sales Segment,opt_input_dim_sales,0
+Sales Channel,opt_input_dim_salchan,0
+Event Setup,opt_input_event,1
+Optimization Metric,opt_input_optimization_target,1
+Optimization Type,opt_input_optimization_type,1
+Time Window,opt_input_optimization_win,0
