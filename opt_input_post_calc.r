@@ -23,9 +23,11 @@ if (check.error==0){
   
   # summarize result
   print("Note: Summarizing output.")
-  month=strftime(curve$week_name,"%m/%Y")
-  curve$month_id=as.Date(paste("01/",month,sep=""),format="%d/%m/%Y")
-  curve$month_name=curve$month_id
+  if (ex.setup$optimization_time==1){
+    month=strftime(curve$week_name,"%m/%Y")
+    curve$month_id=as.Date(paste("01/",month,sep=""),format="%d/%m/%Y")
+    curve$month_name=curve$month_id
+  }
   summary.sp=curve[!duplicated(curve[,c("bdgt_id"),with=F]),]
   summary=vector("list",nrow(ex.output))
   bdgt_dim=str_split(ex.bdgt$bdgt_dim,",")[[1]]
