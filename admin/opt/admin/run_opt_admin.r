@@ -1,4 +1,4 @@
-setwd("d:\\Archives\\Git\\chase\\admin\\admin\\")
+setwd("d:\\Archives\\Git\\kohls_tab\\admin\\admin\\")
 suppressMessages(suppressWarnings(library(RMySQL)))
 # True generate db version files, F generates flat file version files
 db.usage=T
@@ -16,7 +16,7 @@ if (is.staging){
   password="XH3RoKdopf12L4BJbqXTtD2yESgwL$fGd(juW)ed"
 }
 main.path="d:\\Archives\\Git\\opt-admin\\" # opt files path
-season.var=0.1  # from 0 to 1
+season.var=0.05  # from 0 to 1
 
 
 if (db.usage) conn <- dbConnect(MySQL(),user=username, password=password,dbname=db.name, host=db.server)
