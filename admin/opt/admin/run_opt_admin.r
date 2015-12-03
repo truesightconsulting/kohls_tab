@@ -1,4 +1,4 @@
-setwd("d:\\Archives\\Git\\kohls_tab\\admin\\admin\\")
+setwd("d:\\Archives\\Git\\kohls_tab\\admin\\opt\\admin\\")
 suppressMessages(suppressWarnings(library(RMySQL)))
 # True generate db version files, F generates flat file version files
 db.usage=T

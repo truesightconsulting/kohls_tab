@@ -1,6 +1,6 @@
 dma2_name,dma1_name,chan1_name,sales1_name,all_name,curvegroup_name,cpp,a,b
 Medium Stores High Loyalty,DETROIT-MI,Midweek,Total Sales,overall,weekly,1,34030.28533,0.000259599
-Medium Stores High Loyalty,"GRD RPD, KMZ-MI",Midweek,Total Sales,overall,weekly,1,11926.84291,0.000882727
+Medium Stores High Loyalty,GRD RPD KMZ-MI,Midweek,Total Sales,overall,weekly,1,11926.84291,0.000882727
 High Stores High Loyalty,CHICAGO-IL,Midweek,Total Sales,overall,weekly,1,57194.58597,0.000201911
 Medium Stores High Loyalty,GRD JCT/MNTS-CO,Midweek,Total Sales,overall,weekly,1,1680.73089,0.008817089
 Low Stores Medium Loyalty,CLARKSBURG-WV,Midweek,Total Sales,overall,weekly,1,515.7098194,0.007061459
@@ -196,7 +196,7 @@ Low Stores Low Loyalty,CHARLOTTESVILLE,Midweek,Total Sales,overall,weekly,1,697.
 Low Stores Low Loyalty,BUTTE/BOZEMAN-MT,Midweek,Total Sales,overall,weekly,1,263.7802374,0.01242105
 Low Stores Low Loyalty,CASPER/RIVERTON-WY,Midweek,Total Sales,overall,weekly,1,520.3346,0.009532434
 Medium Stores High Loyalty,DETROIT-MI,Sunday,Total Sales,overall,weekly,1,113703.959,7.97E-05
-Medium Stores High Loyalty,"GRD RPD, KMZ-MI",Sunday,Total Sales,overall,weekly,1,53243.67868,0.00020339
+Medium Stores High Loyalty,GRD RPD KMZ-MI,Sunday,Total Sales,overall,weekly,1,53243.67868,0.00020339
 High Stores High Loyalty,CHICAGO-IL,Sunday,Total Sales,overall,weekly,1,367035.2009,3.47E-05
 Medium Stores High Loyalty,GRD JCT/MNTS-CO,Sunday,Total Sales,overall,weekly,1,6330.132771,0.002413174
 Low Stores Medium Loyalty,CLARKSBURG-WV,Sunday,Total Sales,overall,weekly,1,6788.257112,0.001744311
@@ -392,7 +392,7 @@ Low Stores Low Loyalty,CHARLOTTESVILLE,Sunday,Total Sales,overall,weekly,1,4201.
 Low Stores Low Loyalty,BUTTE/BOZEMAN-MT,Sunday,Total Sales,overall,weekly,1,1998.261315,0.003621047
 Low Stores Low Loyalty,CASPER/RIVERTON-WY,Sunday,Total Sales,overall,weekly,1,2008.26217,0.003765462
 Medium Stores High Loyalty,DETROIT-MI,Weekend,Total Sales,overall,weekly,1,139025.5019,6.33E-05
-Medium Stores High Loyalty,"GRD RPD, KMZ-MI",Weekend,Total Sales,overall,weekly,1,51834.33733,0.000176923
+Medium Stores High Loyalty,GRD RPD KMZ-MI,Weekend,Total Sales,overall,weekly,1,51834.33733,0.000176923
 High Stores High Loyalty,CHICAGO-IL,Weekend,Total Sales,overall,weekly,1,726458.1195,2.33E-05
 Medium Stores High Loyalty,GRD JCT/MNTS-CO,Weekend,Total Sales,overall,weekly,1,5748.234932,0.001653859
 Low Stores Medium Loyalty,CLARKSBURG-WV,Weekend,Total Sales,overall,weekly,1,3096.752764,0.001726774
