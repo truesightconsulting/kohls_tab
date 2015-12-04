@@ -6,6 +6,7 @@ update: y means update, n means create a new client
 calendar: 1 means yes, 2 means no.
 bdgt_dim: if calendar is 1, then month_id/week_id is forced to be included
 dim_...: all dimension selections, no other attribute with prefix dim_
+general_message: NULL if nothing
 
 
 
