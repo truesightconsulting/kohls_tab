@@ -25,10 +25,8 @@ if (db.usage){
   ex.setup=data.table(dbGetQuery(conn,paste("select * from opt_userinput_setup where opt_id=",opt_id,sep="")))
   ex.cstr.hidden=data.table(dbGetQuery(conn,paste("select * from opt_modelinput_hidden_cstr where client_id=",client_id,sep="")))
   ex.bdgt=data.table(dbGetQuery(conn,paste("select * from opt_modelinput_bdgt where client_id=",client_id,sep="")))
-  if (ex.setup$optimization_time==1){
-    ex.event=data.table(dbGetQuery(conn,paste("select * from opt_userinput_event where opt_id=",opt_id,sep="")))
-    ex.season=data.table(dbGetQuery(conn,paste("select * from opt_modelinput_season where client_id=",client_id,sep="")))
-  }
+  ex.event=data.table(dbGetQuery(conn,paste("select * from opt_userinput_event where opt_id=",opt_id,sep="")))
+  ex.season=data.table(dbGetQuery(conn,paste("select * from opt_modelinput_season where client_id=",client_id,sep="")))
   ex.output=data.table(dbGetQuery(conn,paste("select * from opt_modelinput_output where client_id=",client_id,sep="")))
   ex.output=ex.output[,!"client_id",with=F]
   ex.clv=data.table(dbGetQuery(conn,paste("select * from opt_modelinput_clv where client_id=",client_id,sep="")))
