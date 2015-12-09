@@ -22,12 +22,12 @@ curve.org=curve
 # response curve function
 calc_decomp=function(x){
   # x is spend; output is sales
-  curve$a.decomp*(1-exp(-curve$b*x/curve$cps))
+  curve$a.decomp*(1-exp(-curve$b*x*1000/curve$cps))
 }
 
 calc_npv=function(x){
   # x is spend; output is sales
-  curve$a*(1-exp(-curve$b*x/curve$cps))
+  curve$a*(1-exp(-curve$b*x*1000/curve$cps))
 }
 
 # # decomp function
