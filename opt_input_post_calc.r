@@ -16,10 +16,13 @@ if (check.error==0){
   if (ex.setup$optimization_type %in% c(3,5,9)) {
     curve$value_plan_decomp=calc_decomp(curve$sp_plan)
     curve$value_plan_npv=curve$value_plan_decomp*curve$clv
+    curve$support_plan=1000*curve$sp_plan/curve$cps
   }else{
     curve$value_decomp_start=calc_decomp(curve$sp_min)
     curve$value_npv_start=curve$value_decomp_start*curve$clv
+    curve$support_start=1000*curve$sp_min/curve$cps
   }
+  curve$support=1000*curve$sp_current/curve$cps
   
   # summarize result
   print("Note: Summarizing output.")
@@ -37,7 +40,8 @@ if (check.error==0){
     dim=str_split(ex.output$dim[i],",")[[1]]
     dim1=c(dim,paste(as.vector(do.call(cbind,strsplit(dim,"_id"))),"_name",sep=""))
     if (ex.setup$optimization_type %in% c(3,5,9)) {
-      summary.sp1=summary.sp[,list(spend=sum(sp_current),spend_start=sum(sp_plan)),by=c(bdgt_dim[bdgt_dim %in% dim])]
+      summary.sp1=summary.sp[,list(spend=sum(sp_current),spend_start=sum(sp_plan),
+                                   support=sum(support),support_start=sum(support_plan)),by=c(bdgt_dim[bdgt_dim %in% dim])]
       summary.npv=curve[,list(decomp=sum(value_decomp),value=sum(value_npv),
                               decomp_start=sum(value_plan_decomp),value_start=sum(value_plan_npv)),by=c(dim1)]
       if(sum(bdgt_dim %in% dim)==0){
@@ -46,7 +50,8 @@ if (check.error==0){
         summary[[i]]=merge(summary.npv,summary.sp1,by=c(bdgt_dim[bdgt_dim %in% dim]),all.x=T)
       }
     }else{
-      summary.sp1=summary.sp[,list(spend=sum(sp_current),spend_start=sum(sp_min)),by=c(bdgt_dim[bdgt_dim %in% dim])]
+      summary.sp1=summary.sp[,list(spend=sum(sp_current),spend_start=sum(sp_min),
+                                   support=sum(support),support_start=sum(support_start)),by=c(bdgt_dim[bdgt_dim %in% dim])]
       summary.npv=curve[,list(decomp=sum(value_decomp),value=sum(value_npv),
                               decomp_start=sum(value_decomp_start),value_start=sum(value_npv_start)),by=c(dim1)]
       if(sum(bdgt_dim %in% dim)==0){
@@ -61,7 +66,8 @@ if (check.error==0){
       index=grep(ex.output$filter[i],dim1)
       dim1=dim1[-index]
       if (ex.setup$optimization_type %in% c(3,5,9)) {
-        summary.sp1=summary.sp[,list(spend=sum(sp_current),spend_start=sum(sp_plan)),by=c(bdgt_dim[bdgt_dim %in% dim])]
+        summary.sp1=summary.sp[,list(spend=sum(sp_current),spend_start=sum(sp_plan),
+                                     support=sum(support),support_start=sum(support_plan)),by=c(bdgt_dim[bdgt_dim %in% dim])]
         summary.npv=curve[,list(decomp=sum(value_decomp),value=sum(value_npv),
                                 decomp_start=sum(value_plan_decomp),value_start=sum(value_plan_npv)),by=c(dim1)]
         if(sum(bdgt_dim %in% dim)==0){
@@ -70,7 +76,8 @@ if (check.error==0){
           temp=merge(summary.npv,summary.sp1,by=c(bdgt_dim[bdgt_dim %in% dim]),all.x=T)
         }
       }else{
-        summary.sp1=summary.sp[,list(spend=sum(sp_current),spend_start=sum(sp_min)),by=c(bdgt_dim[bdgt_dim %in% dim])]
+        summary.sp1=summary.sp[,list(spend=sum(sp_current),spend_start=sum(sp_min),
+                                     support=sum(support),support_start=sum(support_start)),by=c(bdgt_dim[bdgt_dim %in% dim])]
         summary.npv=curve[,list(decomp=sum(value_decomp),value=sum(value_npv),
                                 decomp_start=sum(value_decomp_start),value_start=sum(value_npv_start)),by=c(dim1)]
         if(sum(bdgt_dim %in% dim)==0){
@@ -107,37 +114,37 @@ if (check.error==0){
       temp$eff2_start[temp$eff2_start==Inf]=0
       temp[is.na(temp)]=0
       temp.dim=names(temp)[grep("_name",names(temp))]
-      temp[,c("spend","decomp","value","spend_start","decomp_start","value_start")]=
-        round(temp[,c("spend","decomp","value","spend_start","decomp_start","value_start"),with=F],digits = 0)
+      temp[,c("spend","decomp","value","spend_start","decomp_start","value_start","support","support_start")]=
+        round(temp[,c("spend","decomp","value","spend_start","decomp_start","value_start","support","support_start"),with=F],digits = 0)
       temp[,c("eff1","eff1_start","eff2","eff2_start")]=
         round(temp[,c("eff1","eff1_start","eff2","eff2_start"),with=F],digits = 1)
       if (dim[1]=="all_id") {
         temp=data.table(temp[,temp.dim,with=F],temp[,!temp.dim,with=F]
-                        [,c("spend","decomp","value","eff1","eff2","spend_start","decomp_start","value_start","eff1_start","eff2_start"),with=F])
+                        [,c("spend","support","decomp","value","eff1","eff2","spend_start","support_start","decomp_start","value_start","eff1_start","eff2_start"),with=F])
       } else{
         temp=data.table(temp[,temp.dim,with=F],temp[,!temp.dim,with=F]
-                        [,c("spend","spend_start","decomp","decomp_start","value","value_start","eff1","eff1_start","eff2","eff2_start"),with=F])
+                        [,c("spend","spend_start","support","support_start","decomp","decomp_start","value","value_start","eff1","eff1_start","eff2","eff2_start"),with=F])
       }
       temp=temp[order(-spend)]
-      setnames(temp,c("spend","spend_start","decomp","decomp_start","value","value_start","eff1","eff1_start","eff2","eff2_start"),
-               c("Spend","Planned Spend","Revenue","Planned Revenue","Profit","Planned Profit","CPA","Planned CPA","ROI","Planned ROI"))
+      setnames(temp,c("spend","spend_start","support","support_start","decomp","decomp_start","value","value_start","eff1","eff1_start","eff2","eff2_start"),
+               c("Spend","Planned Spend","Circ","Planned Circ","Revenue","Planned Revenue","Profit","Planned Profit","CPA","Planned CPA","ROI","Planned ROI"))
       temp=temp[,!c("CPA","Planned CPA"),with=F]
     }else{
-      temp=temp[,!c("decomp_start","value_start","spend_start"),with=F]
+      temp=temp[,!c("decomp_start","value_start","spend_start","support_start"),with=F]
       temp=temp[,':='(eff1=spend/decomp,eff2=value/spend)]
       temp$eff1[temp$eff1==Inf]=0
       temp$eff2[temp$eff2==Inf]=0
       temp[is.na(temp)]=0
       temp.dim=names(temp)[grep("_name",names(temp))]
-      temp[,c("spend","decomp","value")]=
-        round(temp[,c("spend","decomp","value"),with=F],digits = 0)
+      temp[,c("spend","decomp","value","support")]=
+        round(temp[,c("spend","decomp","value","support"),with=F],digits = 0)
       temp[,c("eff1","eff2")]=
         round(temp[,c("eff1","eff2"),with=F],digits = 1)
       temp=data.table(temp[,temp.dim,with=F],temp[,!temp.dim,with=F]
-                      [,c("spend","decomp","value","eff1","eff2"),with=F])
+                      [,c("spend","support","decomp","value","eff1","eff2"),with=F])
       temp=temp[order(-spend)]
-      setnames(temp,c("spend","decomp","value","eff1","eff2"),
-               c("Spend","Revenue","Profit","CPA","ROI"))
+      setnames(temp,c("spend","support","decomp","value","eff1","eff2"),
+               c("Spend","Circ","Revenue","Profit","CPA","ROI"))
       temp=temp[,!c("CPA"),with=F]
     }
     # delete dimension columns for overall output table
