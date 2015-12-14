@@ -1,5 +1,5 @@
 label,module,status
-Cost Per Support,opt_input_cps,0
+CPM Setup,opt_input_cps,1
 Constraint Setup,opt_input_cstr,1
 Constraint Setup,opt_input_cstr_output,0
 Time Window,opt_input_curvegroup,0
