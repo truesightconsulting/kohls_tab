@@ -1,6 +1,6 @@
 label,dim,flag_cstr,flag_event,flag_multigoal
 overall,all_id,0,0,0
-Tab,chan1_id,1,1,0
+Tactic,chan1_id,1,1,0
 Cluster,dma2_id,1,1,0
 Market,dma1_id,1,1,0
 Sales Segment,sales1_id,0,1,1

@@ -6,5 +6,5 @@ dmachart_2,Market,dma,2,1,0,bar,1,dma2_id,NULL
 dmatable_1,Market,dma,2,0,1,table,1,"dma2_id,dma1_id,chan1_id",chan
 dmatable_2,Market,dma,2,0,1,table,1,"dma2_id,chan1_id",chan
 overall,overall,overall,0,0,0,overall,0,all_id,NULL
-tacticchart_1,Tab,chan,1,1,0,bar,1,chan1_id,NULL
-tactictable_1,Tab,chan,1,0,1,table,1,chan1_id,NULL
+tacticchart_1,Tactic,chan,1,1,0,bar,1,chan1_id,NULL
+tactictable_1,Tactic,chan,1,0,1,table,1,chan1_id,NULL

@@ -4,7 +4,7 @@ Constraint Setup,opt_input_cstr,1
 Constraint Setup,opt_input_cstr_output,0
 Time Window,opt_input_curvegroup,0
 Time Window,opt_input_date_range,1
-Tab,opt_input_dim_chan,1
+Tactic,opt_input_dim_chan,1
 Markets,opt_input_dim_dma,1
 Sales Segment,opt_input_dim_sales,0
 Sales Channel,opt_input_dim_salchan,0

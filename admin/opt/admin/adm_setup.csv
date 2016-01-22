@@ -1,6 +1,6 @@
 attribute,value
 update,y
-client_name,Kohls Tab
+client_name,Kohls
 r_path,/home/rstudio/nviz/kohls_tab/
 general_message,"This optimization is exclusive to Tab tactics only.  No other channels have been included.
 The optimization utilizes MMA’s results to create the diminishing curves.  Part of diminishing curves design has been determined using past Ninah’s experience (not explicitly determined through model).
