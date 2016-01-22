@@ -1,267 +1,267 @@
 dma2_name,dma1_name,chan1_name,sales1_name,all_name,curvegroup_name,cpp,a,b
-Medium Stores High Loyalty,DETROIT-MI,Midweek,Total Sales,overall,weekly,40.98116701,34030.28533,1.06E-05
-Medium Stores High Loyalty,GRD RPD KMZ-MI,Midweek,Total Sales,overall,weekly,36.87440659,11926.84291,3.26E-05
-High Stores High Loyalty,CHICAGO-IL,Midweek,Total Sales,overall,weekly,38.64928402,57194.58597,7.80E-06
-Medium Stores Low Loyalty,DALLAS-TX,Midweek,Total Sales,overall,weekly,40.90434287,28694.71619,1.31E-05
-Medium Stores High Loyalty,MILWAUKEE-WI,Midweek,Total Sales,overall,weekly,36.83234789,26265.56688,1.81E-05
-Medium Stores High Loyalty,MINNEAPOLIS-MN,Midweek,Total Sales,overall,weekly,40.27654905,25796.81159,1.58E-05
-Medium Stores High Loyalty,INDIANAPOLIS-IN,Midweek,Total Sales,overall,weekly,33.77572822,21432.28319,1.69E-05
-Medium Stores High Loyalty,COLUMBUS-OH,Midweek,Total Sales,overall,weekly,32.63099218,15286.21723,2.61E-05
-Medium Stores High Loyalty,ST. LOUIS-MO,Midweek,Total Sales,overall,weekly,39.03765404,12983.58593,2.17E-05
-Medium Stores Low Loyalty,ATLANTA-GA,Midweek,Total Sales,overall,weekly,34.44853522,18689.29486,1.82E-05
-Medium Stores High Loyalty,PHILADELPHIA-PA,Midweek,Total Sales,overall,weekly,35.48271755,24088.86534,8.37E-06
-Medium Stores High Loyalty,CLEVELAND-OH,Midweek,Total Sales,overall,weekly,38.61459258,30981.54364,1.26E-05
-Medium Stores High Loyalty,NEW HAVEN/HARTD-CT,Midweek,Total Sales,overall,weekly,35.41905343,12279.84169,2.34E-05
-Medium Stores High Loyalty,BALTIMORE-MD,Midweek,Total Sales,overall,weekly,31.00332028,10183.04225,2.90E-05
-Medium Stores High Loyalty,HBG/LANCAST-PA,Midweek,Total Sales,overall,weekly,35.91797778,6790.78577,2.94E-05
-Medium Stores Low Loyalty,SALT LAKE CITY-UT,Midweek,Total Sales,overall,weekly,34.97417389,8481.18787,3.47E-05
-High Stores High Loyalty,LOS ANGELES-CA,Midweek,Total Sales,overall,weekly,38.371342,55220.09088,6.53E-06
-Medium Stores Low Loyalty,CHARLOTTE-NC,Midweek,Total Sales,overall,weekly,35.32767497,9194.581654,3.41E-05
-Medium Stores High Loyalty,WASHINGTON D.C.,Midweek,Total Sales,overall,weekly,62.24195045,19878.30449,1.92E-05
-Medium Stores High Loyalty,PITTSBURGH-PA,Midweek,Total Sales,overall,weekly,35.42555732,12712.78752,2.32E-05
-Medium Stores High Loyalty,DENVER-CO,Midweek,Total Sales,overall,weekly,38.34976282,22295.83891,2.04E-05
-High Stores High Loyalty,TRI-STATE-NY/NJ/CT,Midweek,Total Sales,overall,weekly,39.27185571,96463.6228,3.49E-06
-Medium Stores Low Loyalty,HOUSTON-TX,Midweek,Total Sales,overall,weekly,40.56187648,21315.06352,1.71E-05
-Medium Stores High Loyalty,BOSTON-MA,Midweek,Total Sales,overall,weekly,39.97511657,16744.48772,1.49E-05
-Medium Stores Low Loyalty,PHOENIX-AZ,Midweek,Total Sales,overall,weekly,32.89345052,21348.44768,1.69E-05
-Medium Stores Low Loyalty,SACRAMENTO-CA,Midweek,Total Sales,overall,weekly,40.29232279,19345.12462,1.91E-05
-Medium Stores Low Loyalty,SAN DIEGO-CA,Midweek,Total Sales,overall,weekly,27.02759572,13412.73125,1.48E-05
-Medium Stores Low Loyalty,SAN FRANCISCO-CA,Midweek,Total Sales,overall,weekly,40.37997874,19075.3346,1.15E-05
-Medium Stores Low Loyalty,ORLNDO/DYTNA/MB-FL,Midweek,Total Sales,overall,weekly,36.31881129,16329.25547,2.58E-05
-Medium Stores Low Loyalty,TMPA/ST.PT/LKLD-FL,Midweek,Total Sales,overall,weekly,35.25722105,10264.08304,3.36E-05
-Medium Stores High Loyalty,BUFFALO-NY,Midweek,Total Sales,overall,weekly,52.01705338,6539.010599,5.70E-05
-Medium Stores Low Loyalty,MIAMI/FT. LDRDA-FL,Midweek,Total Sales,overall,weekly,43.82630067,10415.72881,3.12E-05
-Medium Stores High Loyalty,DETROIT-MI,Sunday,Total Sales,overall,weekly,39.42527774,113703.959,3.14E-06
-Medium Stores High Loyalty,GRD RPD KMZ-MI,Sunday,Total Sales,overall,weekly,49.80222385,53243.67868,1.01E-05
-High Stores High Loyalty,CHICAGO-IL,Sunday,Total Sales,overall,weekly,48.29792337,367035.2009,1.68E-06
-Medium Stores Low Loyalty,DALLAS-TX,Sunday,Total Sales,overall,weekly,42.47810609,173817.4019,3.02E-06
-Low Stores Medium Loyalty,WILKES-BARRE-PA,Sunday,Total Sales,overall,weekly,43.28126843,20759.49694,1.56E-05
-Medium Stores High Loyalty,MILWAUKEE-WI,Sunday,Total Sales,overall,weekly,41.32773571,125565.4346,4.43E-06
-Medium Stores High Loyalty,LA CRSE/EAU CL-WI,Sunday,Total Sales,overall,weekly,48.77222559,10222.62377,4.08E-05
-Medium Stores High Loyalty,MINNEAPOLIS-MN,Sunday,Total Sales,overall,weekly,51.88747815,138498.7836,3.76E-06
-Medium Stores High Loyalty,PEORIA/BLMNGTN-IL,Sunday,Total Sales,overall,weekly,51.39871783,24305.76029,2.75E-05
-Medium Stores High Loyalty,INDIANAPOLIS-IN,Sunday,Total Sales,overall,weekly,41.4734516,83301.39391,5.17E-06
-Medium Stores High Loyalty,COLUMBUS-OH,Sunday,Total Sales,overall,weekly,49.86770715,94777.40038,7.31E-06
-Medium Stores High Loyalty,GREENBAY/APLTN-WI,Sunday,Total Sales,overall,weekly,36.63699821,38320.32497,1.17E-05
-Medium Stores High Loyalty,CHMPGN/SPRINFD-IL,Sunday,Total Sales,overall,weekly,53.83739309,23809.5884,2.39E-05
-Medium Stores Low Loyalty,DES MOINES-IA,Sunday,Total Sales,overall,weekly,45.09068732,12013.89554,2.14E-05
-Medium Stores High Loyalty,FORT WAYNE-IN,Sunday,Total Sales,overall,weekly,49.11492708,25503.78291,2.30E-05
-Medium Stores Low Loyalty,OKLAHOMA CITY-OK,Sunday,Total Sales,overall,weekly,40.18248231,50433.80265,1.16E-05
-Medium Stores Low Loyalty,OMAHA-NE,Sunday,Total Sales,overall,weekly,46.15840933,33331.32355,1.99E-05
-Medium Stores High Loyalty,ST. LOUIS-MO,Sunday,Total Sales,overall,weekly,40.69457881,83435.03646,6.45E-06
-Medium Stores High Loyalty,MADISON-WI,Sunday,Total Sales,overall,weekly,55.11924506,27024.99889,2.06E-05
-Medium Stores Low Loyalty,ATLANTA-GA,Sunday,Total Sales,overall,weekly,49.61776382,125510.087,3.62E-06
-Low Stores Medium Loyalty,FLNT/SGNW-BYCT-MI,Sunday,Total Sales,overall,weekly,48.68812883,26097.8184,1.94E-05
-Medium Stores High Loyalty,PHILADELPHIA-PA,Sunday,Total Sales,overall,weekly,44.5616563,225628.8968,2.22E-06
-Low Stores Medium Loyalty,PADUCAH-KY,Sunday,Total Sales,overall,weekly,53.25651622,15341.11143,3.53E-05
-Medium Stores High Loyalty,NORFOLK-VA,Sunday,Total Sales,overall,weekly,44.29502098,39643.99076,1.22E-05
-Medium Stores High Loyalty,CLEVELAND-OH,Sunday,Total Sales,overall,weekly,43.50563608,146314.0893,3.67E-06
-Low Stores Low Loyalty,MONTEREY/SALINA-CA,Sunday,Total Sales,overall,weekly,49.57810054,17112.78154,3.53E-05
-Medium Stores High Loyalty,NEW HAVEN/HARTD-CT,Sunday,Total Sales,overall,weekly,45.81266252,109186.6099,6.27E-06
-Low Stores Medium Loyalty,EVANSVILLE-IN,Sunday,Total Sales,overall,weekly,46.2785075,17717.59846,3.08E-05
-Medium Stores Low Loyalty,LEXINGTON-KY,Sunday,Total Sales,overall,weekly,45.99995674,30273.07951,1.94E-05
-Medium Stores High Loyalty,BALTIMORE-MD,Sunday,Total Sales,overall,weekly,37.39363394,63906.966,6.83E-06
-Low Stores Medium Loyalty,PORTLAND-ME,Sunday,Total Sales,overall,weekly,34.9346641,10362.10809,2.79E-05
-Medium Stores Low Loyalty,RALEIGH-NC,Sunday,Total Sales,overall,weekly,44.22076101,50688.62439,1.05E-05
-Medium Stores High Loyalty,LINCOLN-NE,Sunday,Total Sales,overall,weekly,55.05865264,16691.15651,3.65E-05
-Medium Stores High Loyalty,HBG/LANCAST-PA,Sunday,Total Sales,overall,weekly,45.27517321,45325.77319,8.59E-06
-Low Stores Medium Loyalty,TRI CITIES-TN,Sunday,Total Sales,overall,weekly,48.10876577,10151.68125,4.42E-05
-Medium Stores Low Loyalty,AUSTIN-TX,Sunday,Total Sales,overall,weekly,49.98246836,39225.9011,1.90E-05
-Low Stores Medium Loyalty,ROANOKE/LYCHBRG-VA,Sunday,Total Sales,overall,weekly,52.95824938,11670.48616,3.80E-05
-Medium Stores Low Loyalty,SALT LAKE CITY-UT,Sunday,Total Sales,overall,weekly,48.45928017,48486.41577,1.11E-05
-High Stores High Loyalty,LOS ANGELES-CA,Sunday,Total Sales,overall,weekly,47.21953028,394505.504,1.24E-06
-Low Stores Medium Loyalty,DAVENPORT-IA,Sunday,Total Sales,overall,weekly,51.90943113,25095.12121,2.33E-05
-Medium Stores High Loyalty,FARGO-ND,Sunday,Total Sales,overall,weekly,61.63496716,11059.33667,4.39E-05
-Medium Stores High Loyalty,DAYTON-OH,Sunday,Total Sales,overall,weekly,46.94749593,58797.18931,1.08E-05
-Medium Stores High Loyalty,CINCINNATI-OH,Sunday,Total Sales,overall,weekly,40.76802081,65825.32286,7.43E-06
-Medium Stores High Loyalty,CEDAR RAPIDS-IA,Sunday,Total Sales,overall,weekly,45.99743953,27596.40831,2.22E-05
-Medium Stores High Loyalty,TOLEDO-OH,Sunday,Total Sales,overall,weekly,43.25501919,31046.78257,1.37E-05
-Medium Stores Low Loyalty,KANSAS CT-KS / MO,Sunday,Total Sales,overall,weekly,60.48986674,68509.79525,1.05E-05
-Medium Stores High Loyalty,YOUNGSTOWN-OH,Sunday,Total Sales,overall,weekly,34.39585738,13990.87747,2.45E-05
-Medium Stores High Loyalty,LANSING/JACKSON-MI,Sunday,Total Sales,overall,weekly,43.18795094,15803.10996,2.59E-05
-Medium Stores High Loyalty,SPRINGFIELD-MO,Sunday,Total Sales,overall,weekly,41.83600243,7832.479308,4.20E-05
-Medium Stores High Loyalty,WICHITA-KS,Sunday,Total Sales,overall,weekly,48.55767833,29564.50029,2.07E-05
-Medium Stores Low Loyalty,CHARLOTTE-NC,Sunday,Total Sales,overall,weekly,43.88956897,53156.22983,8.35E-06
-Medium Stores High Loyalty,LOUISVILLE-KY,Sunday,Total Sales,overall,weekly,38.95335949,29362.63053,1.10E-05
-Low Stores Medium Loyalty,SOUTH BEND-IN,Sunday,Total Sales,overall,weekly,43.09569497,30869.78152,1.55E-05
-Medium Stores High Loyalty,WASHINGTON D.C.,Sunday,Total Sales,overall,weekly,49.60138448,127246.4957,3.70E-06
-Low Stores Medium Loyalty,GREENSBORO-NC,Sunday,Total Sales,overall,weekly,47.25888933,25116.98947,1.45E-05
-Medium Stores High Loyalty,PITTSBURGH-PA,Sunday,Total Sales,overall,weekly,43.45844288,56522.94278,7.33E-06
-Low Stores Medium Loyalty,KNOXVILLE-TN,Sunday,Total Sales,overall,weekly,45.96633687,24481.54796,2.22E-05
-Medium Stores High Loyalty,RICHMOND-VA,Sunday,Total Sales,overall,weekly,48.4058903,39567.30076,1.65E-05
-Medium Stores High Loyalty,DENVER-CO,Sunday,Total Sales,overall,weekly,42.92717782,132698.0063,4.47E-06
-High Stores High Loyalty,TRI-STATE-NY/NJ/CT,Sunday,Total Sales,overall,weekly,41.43506136,473651.597,9.57E-07
-Medium Stores High Loyalty,TULSA-OK,Sunday,Total Sales,overall,weekly,40.71459934,27219.72118,1.68E-05
-Low Stores Low Loyalty,CHATTANOOGA-TN,Sunday,Total Sales,overall,weekly,57.31399435,13441.89246,3.60E-05
-Medium Stores Low Loyalty,FAYETTEVL/FT.SM-AR,Sunday,Total Sales,overall,weekly,45.18960563,15255.89365,3.20E-05
-Medium Stores High Loyalty,COLORADO SPRNGS-CO,Sunday,Total Sales,overall,weekly,45.14912967,31302.82247,1.70E-05
-Medium Stores High Loyalty,SANTA BARBARA-CA,Sunday,Total Sales,overall,weekly,45.38154048,15204.62348,3.56E-05
-Low Stores Medium Loyalty,GREENVILLE-SC,Sunday,Total Sales,overall,weekly,41.78487428,16445.00464,1.61E-05
-Medium Stores Low Loyalty,EL PASO-TX,Sunday,Total Sales,overall,weekly,33.22143358,23917.48761,1.19E-05
-Medium Stores Low Loyalty,HOUSTON-TX,Sunday,Total Sales,overall,weekly,61.59675972,122971.3054,5.38E-06
-Medium Stores Low Loyalty,NASHVILLE-TN,Sunday,Total Sales,overall,weekly,38.7474774,47566.4051,1.04E-05
-Medium Stores High Loyalty,BOSTON-MA,Sunday,Total Sales,overall,weekly,44.17431916,120843.7643,3.60E-06
-Medium Stores High Loyalty,PROVIDENCE-RI,Sunday,Total Sales,overall,weekly,53.37890039,31296.19702,1.64E-05
-Low Stores Medium Loyalty,HUNTSVILLE-AL,Sunday,Total Sales,overall,weekly,45.2498323,14124.91616,3.34E-05
-Medium Stores High Loyalty,COLUMBIA-SC,Sunday,Total Sales,overall,weekly,60.89461692,20982.38366,2.99E-05
-Medium Stores Low Loyalty,PHOENIX-AZ,Sunday,Total Sales,overall,weekly,27.73820242,76680.51386,3.40E-06
-Low Stores Medium Loyalty,SPRINGFIELD-MA,Sunday,Total Sales,overall,weekly,47.06408914,23443.83495,2.65E-05
-Medium Stores Low Loyalty,SAN ANTONIO-TX,Sunday,Total Sales,overall,weekly,45.59862715,39171.89134,1.12E-05
-Low Stores Low Loyalty,BIRMINGHAM-AL,Sunday,Total Sales,overall,weekly,48.69721724,18687.93803,3.36E-05
-Medium Stores Low Loyalty,SACRAMENTO-CA,Sunday,Total Sales,overall,weekly,61.94315456,120296.9384,6.00E-06
-Medium Stores Low Loyalty,LAS VEGAS-NV,Sunday,Total Sales,overall,weekly,48.8523616,45449.7741,1.23E-05
-Medium Stores Low Loyalty,SAN DIEGO-CA,Sunday,Total Sales,overall,weekly,60.52872522,80244.14758,7.15E-06
-Medium Stores High Loyalty,TUCSON-AZ,Sunday,Total Sales,overall,weekly,35.21146227,9723.888651,2.54E-05
-Low Stores Medium Loyalty,ALBANY-NY,Sunday,Total Sales,overall,weekly,56.78265796,21502.58754,2.07E-05
-Low Stores Low Loyalty,LITTLE ROCK-AR,Sunday,Total Sales,overall,weekly,44.62662353,23113.91692,2.21E-05
-Medium Stores Low Loyalty,FRESNO/VISALIA-CA,Sunday,Total Sales,overall,weekly,64.06670937,39493.85759,1.59E-05
-Low Stores Low Loyalty,MEMPHIS-TN,Sunday,Total Sales,overall,weekly,56.67471519,19947.7698,3.93E-05
-Low Stores Medium Loyalty,SYRACUSE-NY,Sunday,Total Sales,overall,weekly,58.24566012,18548.61673,2.88E-05
-Medium Stores Low Loyalty,SAN FRANCISCO-CA,Sunday,Total Sales,overall,weekly,58.6420635,123795.8782,3.88E-06
-Low Stores Low Loyalty,CHARLESTON-SC,Sunday,Total Sales,overall,weekly,54.56571165,15114.86667,4.05E-05
-Low Stores Medium Loyalty,ROCHESTER-NY,Sunday,Total Sales,overall,weekly,47.76796695,24043.48256,2.10E-05
-Medium Stores Low Loyalty,WACO/TMPL/BRYAN-TX,Sunday,Total Sales,overall,weekly,46.51044453,18014.40211,2.59E-05
-Medium Stores High Loyalty,JACKSONVILLE-FL,Sunday,Total Sales,overall,weekly,37.54537843,32253.27789,1.84E-05
-Medium Stores Low Loyalty,MCALLEN-TX,Sunday,Total Sales,overall,weekly,36.15345368,16205.35635,1.87E-05
-Medium Stores Low Loyalty,ORLNDO/DYTNA/MB-FL,Sunday,Total Sales,overall,weekly,45.10556669,82518.28659,5.38E-06
-Medium Stores Low Loyalty,TMPA/ST.PT/LKLD-FL,Sunday,Total Sales,overall,weekly,49.58153128,62326.09726,7.42E-06
-Medium Stores High Loyalty,BUFFALO-NY,Sunday,Total Sales,overall,weekly,69.50291438,32631.1219,1.82E-05
-Medium Stores High Loyalty,RENO-NV,Sunday,Total Sales,overall,weekly,35.04133108,7379.705435,3.22E-05
-Medium Stores Low Loyalty,PORTLAND-OR,Sunday,Total Sales,overall,weekly,40.86655511,31029.90733,1.06E-05
-Low Stores Low Loyalty,EUGENE-OR,Sunday,Total Sales,overall,weekly,41.82444113,10920.1534,3.48E-05
-Low Stores Medium Loyalty,FORT MYRS/NAPLS-FL,Sunday,Total Sales,overall,weekly,40.31915063,30575.89985,1.45E-05
-Medium Stores Low Loyalty,SEATTLE-WA,Sunday,Total Sales,overall,weekly,53.52020282,39667.08738,1.01E-05
-Low Stores Low Loyalty,MBLE/PNSCOLA-AL/FL,Sunday,Total Sales,overall,weekly,45.79767005,19439.819,2.38E-05
-Medium Stores High Loyalty,ALBQ/SANTA FE-NM,Sunday,Total Sales,overall,weekly,40.58996183,20239.32412,1.95E-05
-Medium Stores Low Loyalty,BOISE-ID,Sunday,Total Sales,overall,weekly,43.2702256,15512.07853,2.41E-05
-Low Stores Low Loyalty,SPOKANE-WA,Sunday,Total Sales,overall,weekly,47.45205218,11585.15001,3.26E-05
-Low Stores Medium Loyalty,WEST PALM BEACH-FL,Sunday,Total Sales,overall,weekly,51.18759344,21480.80543,2.40E-05
-Low Stores Low Loyalty,YAKIMA-WA,Sunday,Total Sales,overall,weekly,47.10356797,7851.72592,4.43E-05
-Medium Stores Low Loyalty,MIAMI/FT. LDRDA-FL,Sunday,Total Sales,overall,weekly,56.15867995,56452.29348,8.68E-06
-Medium Stores High Loyalty,DETROIT-MI,Weekend,Total Sales,overall,weekly,41.16820422,139025.5019,2.61E-06
-Medium Stores High Loyalty,GRD RPD KMZ-MI,Weekend,Total Sales,overall,weekly,44.37516122,51834.33733,7.85E-06
-High Stores High Loyalty,CHICAGO-IL,Weekend,Total Sales,overall,weekly,40.39993636,726458.1195,9.41E-07
-Medium Stores Low Loyalty,DALLAS-TX,Weekend,Total Sales,overall,weekly,39.60355944,248419.8172,1.90E-06
-Low Stores Medium Loyalty,WILKES-BARRE-PA,Weekend,Total Sales,overall,weekly,41.95185976,27638.9191,1.14E-05
-Low Stores Low Loyalty,YUMA-AZ,Weekend,Total Sales,overall,weekly,32.67640787,9709.134226,2.07E-05
-Medium Stores High Loyalty,MILWAUKEE-WI,Weekend,Total Sales,overall,weekly,39.40486178,305651.5236,2.65E-06
-Medium Stores High Loyalty,LA CRSE/EAU CL-WI,Weekend,Total Sales,overall,weekly,43.22413416,19044.85342,2.20E-05
-Medium Stores High Loyalty,MINNEAPOLIS-MN,Weekend,Total Sales,overall,weekly,43.23962947,202632.7198,2.54E-06
-Medium Stores High Loyalty,PEORIA/BLMNGTN-IL,Weekend,Total Sales,overall,weekly,51.8152874,23122.5181,2.04E-05
-Medium Stores High Loyalty,INDIANAPOLIS-IN,Weekend,Total Sales,overall,weekly,39.5768065,157406.1098,2.98E-06
-Medium Stores High Loyalty,COLUMBUS-OH,Weekend,Total Sales,overall,weekly,36.31487742,197082.5679,3.27E-06
-Medium Stores High Loyalty,GREENBAY/APLTN-WI,Weekend,Total Sales,overall,weekly,33.38717697,44433.32626,8.98E-06
-Medium Stores High Loyalty,CHMPGN/SPRINFD-IL,Weekend,Total Sales,overall,weekly,47.94344267,37995.94124,1.29E-05
-Medium Stores Low Loyalty,DES MOINES-IA,Weekend,Total Sales,overall,weekly,41.04772123,24029.03161,1.62E-05
-Medium Stores High Loyalty,FORT WAYNE-IN,Weekend,Total Sales,overall,weekly,38.66366322,21947.43435,1.57E-05
-Medium Stores Low Loyalty,OKLAHOMA CITY-OK,Weekend,Total Sales,overall,weekly,35.87991323,41859.36019,8.14E-06
-Medium Stores Low Loyalty,OMAHA-NE,Weekend,Total Sales,overall,weekly,45.57430886,35834.86439,1.23E-05
-Medium Stores High Loyalty,ST. LOUIS-MO,Weekend,Total Sales,overall,weekly,37.5020672,160280.2112,3.83E-06
-Medium Stores High Loyalty,MADISON-WI,Weekend,Total Sales,overall,weekly,46.32244525,66629.72426,9.17E-06
-Medium Stores Low Loyalty,ATLANTA-GA,Weekend,Total Sales,overall,weekly,33.60380592,221130.9702,1.70E-06
-Medium Stores High Loyalty,ROCKFORD-IL,Weekend,Total Sales,overall,weekly,38.40830334,31417.62877,1.61E-05
-Low Stores Medium Loyalty,FLNT/SGNW-BYCT-MI,Weekend,Total Sales,overall,weekly,43.1361364,37034.55709,1.42E-05
-Medium Stores High Loyalty,PHILADELPHIA-PA,Weekend,Total Sales,overall,weekly,38.93974531,554490.9476,1.01E-06
-Low Stores Medium Loyalty,PADUCAH-KY,Weekend,Total Sales,overall,weekly,50.2793819,29218.28707,1.61E-05
-Medium Stores High Loyalty,NORFOLK-VA,Weekend,Total Sales,overall,weekly,37.01749937,36060.98932,8.07E-06
-Medium Stores High Loyalty,CLEVELAND-OH,Weekend,Total Sales,overall,weekly,40.26794505,233416.2472,2.15E-06
-Low Stores Low Loyalty,MONTEREY/SALINA-CA,Weekend,Total Sales,overall,weekly,41.02732276,7284.557828,3.16E-05
-Medium Stores High Loyalty,NEW HAVEN/HARTD-CT,Weekend,Total Sales,overall,weekly,38.54705943,187439.2861,3.23E-06
-Low Stores Medium Loyalty,EVANSVILLE-IN,Weekend,Total Sales,overall,weekly,42.27561003,19357.88723,2.20E-05
-Medium Stores Low Loyalty,LEXINGTON-KY,Weekend,Total Sales,overall,weekly,39.43594066,25920.04792,1.25E-05
-Medium Stores High Loyalty,BALTIMORE-MD,Weekend,Total Sales,overall,weekly,33.43349739,127435.2971,3.13E-06
-Low Stores Medium Loyalty,PORTLAND-ME,Weekend,Total Sales,overall,weekly,33.60733696,18038.44692,1.39E-05
-Medium Stores Low Loyalty,RALEIGH-NC,Weekend,Total Sales,overall,weekly,31.30961203,77035.10276,3.65E-06
-Medium Stores High Loyalty,LINCOLN-NE,Weekend,Total Sales,overall,weekly,48.83191693,11332.79948,2.56E-05
-Medium Stores High Loyalty,HBG/LANCAST-PA,Weekend,Total Sales,overall,weekly,42.31105525,77459.2616,5.40E-06
-Low Stores Medium Loyalty,TRI CITIES-TN,Weekend,Total Sales,overall,weekly,46.64961856,7034.847986,3.54E-05
-Medium Stores Low Loyalty,AUSTIN-TX,Weekend,Total Sales,overall,weekly,42.6578872,24635.96302,7.96E-06
-Low Stores Medium Loyalty,ROANOKE/LYCHBRG-VA,Weekend,Total Sales,overall,weekly,45.51815518,6640.458884,2.99E-05
-Medium Stores Low Loyalty,SALT LAKE CITY-UT,Weekend,Total Sales,overall,weekly,42.02045686,40335.03927,8.39E-06
-High Stores High Loyalty,LOS ANGELES-CA,Weekend,Total Sales,overall,weekly,39.22706299,464490.1398,8.04E-07
-Low Stores Medium Loyalty,DAVENPORT-IA,Weekend,Total Sales,overall,weekly,48.9139828,22465.84826,1.62E-05
-Medium Stores High Loyalty,FARGO-ND,Weekend,Total Sales,overall,weekly,47.15306109,6789.454033,3.61E-05
-Medium Stores High Loyalty,DAYTON-OH,Weekend,Total Sales,overall,weekly,39.92749112,38750.38126,8.64E-06
-Medium Stores High Loyalty,CINCINNATI-OH,Weekend,Total Sales,overall,weekly,34.29955563,104679.9017,4.50E-06
-Medium Stores High Loyalty,CEDAR RAPIDS-IA,Weekend,Total Sales,overall,weekly,43.4376672,27126.48902,1.52E-05
-Medium Stores High Loyalty,ERIE-PA,Weekend,Total Sales,overall,weekly,50.18427195,10023.18283,3.61E-05
-Medium Stores High Loyalty,TOLEDO-OH,Weekend,Total Sales,overall,weekly,39.96420223,60094.41074,8.35E-06
-Medium Stores Low Loyalty,KANSAS CT-KS / MO,Weekend,Total Sales,overall,weekly,44.18469081,84083.76848,5.63E-06
-Medium Stores High Loyalty,YOUNGSTOWN-OH,Weekend,Total Sales,overall,weekly,32.9343986,16306.8209,1.78E-05
-Medium Stores High Loyalty,LANSING/JACKSON-MI,Weekend,Total Sales,overall,weekly,35.9956706,15039.51455,2.01E-05
-Medium Stores High Loyalty,SPRINGFIELD-MO,Weekend,Total Sales,overall,weekly,34.8226342,17174.22787,2.19E-05
-Medium Stores High Loyalty,WICHITA-KS,Weekend,Total Sales,overall,weekly,42.62500835,23034.70879,1.80E-05
-Medium Stores Low Loyalty,CHARLOTTE-NC,Weekend,Total Sales,overall,weekly,35.12328111,55749.88971,4.61E-06
-Medium Stores High Loyalty,LOUISVILLE-KY,Weekend,Total Sales,overall,weekly,34.48278929,43125.51263,8.09E-06
-Low Stores Medium Loyalty,SOUTH BEND-IN,Weekend,Total Sales,overall,weekly,41.00298319,21575.35252,1.45E-05
-Low Stores Medium Loyalty,CHRLSTN/HNTNGTN-WV,Weekend,Total Sales,overall,weekly,35.23080172,6973.510802,2.54E-05
-Medium Stores High Loyalty,WASHINGTON D.C.,Weekend,Total Sales,overall,weekly,45.17942397,206247.3543,2.31E-06
-Low Stores Medium Loyalty,GREENSBORO-NC,Weekend,Total Sales,overall,weekly,42.43030707,22443.58347,1.01E-05
-Medium Stores High Loyalty,PITTSBURGH-PA,Weekend,Total Sales,overall,weekly,37.29349898,113782.4657,3.73E-06
-Low Stores Medium Loyalty,KNOXVILLE-TN,Weekend,Total Sales,overall,weekly,36.29091953,30005.53996,9.63E-06
-Medium Stores High Loyalty,RICHMOND-VA,Weekend,Total Sales,overall,weekly,46.43102776,29118.5574,1.25E-05
-Medium Stores High Loyalty,DENVER-CO,Weekend,Total Sales,overall,weekly,44.58281317,146432.3825,3.39E-06
-Medium Stores High Loyalty,ROCHESTER-MN,Weekend,Total Sales,overall,weekly,44.70518431,9737.455873,3.34E-05
-High Stores High Loyalty,TRI-STATE-NY/NJ/CT,Weekend,Total Sales,overall,weekly,39.54842188,1084285.359,4.82E-07
-Medium Stores High Loyalty,TULSA-OK,Weekend,Total Sales,overall,weekly,42.13889215,27319.54136,1.63E-05
-Low Stores Low Loyalty,CHATTANOOGA-TN,Weekend,Total Sales,overall,weekly,38.07954957,17519.65341,1.32E-05
-Low Stores Medium Loyalty,WAUSAU-WI,Weekend,Total Sales,overall,weekly,36.38818415,34935.36254,1.88E-05
-Medium Stores Low Loyalty,FAYETTEVL/FT.SM-AR,Weekend,Total Sales,overall,weekly,43.62568681,13460.9074,2.29E-05
-Medium Stores High Loyalty,COLORADO SPRNGS-CO,Weekend,Total Sales,overall,weekly,40.58739531,34852.23664,1.21E-05
-Medium Stores High Loyalty,SANTA BARBARA-CA,Weekend,Total Sales,overall,weekly,43.05910921,9146.556916,2.95E-05
-Low Stores Medium Loyalty,GREENVILLE-SC,Weekend,Total Sales,overall,weekly,37.65760867,37721.71898,7.98E-06
-Medium Stores Low Loyalty,EL PASO-TX,Weekend,Total Sales,overall,weekly,28.23388992,18453.02526,8.53E-06
-Medium Stores Low Loyalty,HOUSTON-TX,Weekend,Total Sales,overall,weekly,34.71622067,109100.1638,2.20E-06
-Medium Stores Low Loyalty,NASHVILLE-TN,Weekend,Total Sales,overall,weekly,36.92458457,45208.01323,6.42E-06
-Medium Stores High Loyalty,BOSTON-MA,Weekend,Total Sales,overall,weekly,38.92207136,280395.6849,1.86E-06
-Medium Stores High Loyalty,PROVIDENCE-RI,Weekend,Total Sales,overall,weekly,42.47563698,102466.1325,5.72E-06
-Low Stores Medium Loyalty,HUNTSVILLE-AL,Weekend,Total Sales,overall,weekly,37.87392856,16242.6998,1.82E-05
-Medium Stores High Loyalty,COLUMBIA-SC,Weekend,Total Sales,overall,weekly,46.19217839,19590.51531,1.91E-05
-Low Stores Medium Loyalty,TRAVERSE CITY-MI,Weekend,Total Sales,overall,weekly,38.56790372,12144.76574,2.80E-05
-Medium Stores Low Loyalty,PHOENIX-AZ,Weekend,Total Sales,overall,weekly,37.31722708,97455.67944,2.84E-06
-Low Stores Medium Loyalty,SPRINGFIELD-MA,Weekend,Total Sales,overall,weekly,47.32976435,18643.99977,2.23E-05
-Medium Stores Low Loyalty,SAN ANTONIO-TX,Weekend,Total Sales,overall,weekly,47.54399496,41160.84928,8.09E-06
-Low Stores Low Loyalty,BIRMINGHAM-AL,Weekend,Total Sales,overall,weekly,41.47188288,18078.26253,1.67E-05
-Medium Stores Low Loyalty,SACRAMENTO-CA,Weekend,Total Sales,overall,weekly,46.65601216,90006.34814,3.62E-06
-Medium Stores Low Loyalty,LAS VEGAS-NV,Weekend,Total Sales,overall,weekly,39.8726888,39356.15098,7.56E-06
-Medium Stores Low Loyalty,SAN DIEGO-CA,Weekend,Total Sales,overall,weekly,39.98675807,42322.23148,4.10E-06
-Medium Stores Low Loyalty,PALM SPRINGS-CA,Weekend,Total Sales,overall,weekly,37.95996267,10723.96089,3.05E-05
-Medium Stores High Loyalty,TUCSON-AZ,Weekend,Total Sales,overall,weekly,39.20761715,12673.06779,1.49E-05
-Low Stores Medium Loyalty,ALBANY-NY,Weekend,Total Sales,overall,weekly,52.19171094,34811.37955,1.33E-05
-Low Stores Low Loyalty,LITTLE ROCK-AR,Weekend,Total Sales,overall,weekly,41.72735668,22829.06743,1.66E-05
-Medium Stores Low Loyalty,FRESNO/VISALIA-CA,Weekend,Total Sales,overall,weekly,49.34448962,26622.00838,1.26E-05
-Medium Stores High Loyalty,BAKERSFIELD-CA,Weekend,Total Sales,overall,weekly,39.81681365,10521.99442,3.03E-05
-Low Stores Low Loyalty,MEMPHIS-TN,Weekend,Total Sales,overall,weekly,44.41617037,13683.02991,2.61E-05
-Low Stores Medium Loyalty,SYRACUSE-NY,Weekend,Total Sales,overall,weekly,50.01840931,14774.54356,2.38E-05
-Low Stores Medium Loyalty,HARRISONBURG-VA,Weekend,Total Sales,overall,weekly,44.34526798,9094.568102,3.83E-05
-Medium Stores Low Loyalty,SAN FRANCISCO-CA,Weekend,Total Sales,overall,weekly,38.37089881,85895.16442,2.25E-06
-Low Stores Low Loyalty,CHARLESTON-SC,Weekend,Total Sales,overall,weekly,47.03020118,14713.27797,2.24E-05
-Low Stores Medium Loyalty,ROCHESTER-NY,Weekend,Total Sales,overall,weekly,46.34445782,28293.9499,1.65E-05
-Medium Stores Low Loyalty,WACO/TMPL/BRYAN-TX,Weekend,Total Sales,overall,weekly,42.86832583,15533.16169,2.11E-05
-Medium Stores High Loyalty,JACKSONVILLE-FL,Weekend,Total Sales,overall,weekly,33.91300944,34901.0181,9.51E-06
-Medium Stores Low Loyalty,MCALLEN-TX,Weekend,Total Sales,overall,weekly,35.07732184,17894.8829,9.55E-06
-Medium Stores Low Loyalty,ORLNDO/DYTNA/MB-FL,Weekend,Total Sales,overall,weekly,36.54601646,91333.2085,2.97E-06
-Medium Stores Low Loyalty,TMPA/ST.PT/LKLD-FL,Weekend,Total Sales,overall,weekly,43.35015522,50856.23235,5.93E-06
-Medium Stores High Loyalty,BUFFALO-NY,Weekend,Total Sales,overall,weekly,57.4135435,28581.246,1.42E-05
-Low Stores Medium Loyalty,JOHNSTOWN/ALTNA-PA,Weekend,Total Sales,overall,weekly,48.02168085,9647.128702,4.02E-05
-Medium Stores High Loyalty,RENO-NV,Weekend,Total Sales,overall,weekly,32.33466481,14476.61034,1.92E-05
-Medium Stores Low Loyalty,PORTLAND-OR,Weekend,Total Sales,overall,weekly,37.40476196,48326.8718,5.86E-06
-Medium Stores High Loyalty,COLMBA/JEFFRSON-MO,Weekend,Total Sales,overall,weekly,37.1961846,15712.65646,2.58E-05
-Low Stores Low Loyalty,COLUMBUS-GA,Weekend,Total Sales,overall,weekly,42.88135715,9267.613762,3.20E-05
-Low Stores Low Loyalty,EUGENE-OR,Weekend,Total Sales,overall,weekly,42.1596469,9196.381956,3.01E-05
-Low Stores Medium Loyalty,FORT MYRS/NAPLS-FL,Weekend,Total Sales,overall,weekly,36.74490263,12567.0228,1.50E-05
-Medium Stores Low Loyalty,SEATTLE-WA,Weekend,Total Sales,overall,weekly,39.42768734,55131.04186,4.83E-06
-Low Stores Low Loyalty,MBLE/PNSCOLA-AL/FL,Weekend,Total Sales,overall,weekly,39.17797153,10770.66112,2.04E-05
-Medium Stores High Loyalty,CHICO/REDDING-CA,Weekend,Total Sales,overall,weekly,40.45584731,5533.585709,4.08E-05
-Medium Stores High Loyalty,ALBQ/SANTA FE-NM,Weekend,Total Sales,overall,weekly,40.07357621,24131.37022,1.04E-05
-Medium Stores Low Loyalty,FLORNCE/MRTL BE-SC,Weekend,Total Sales,overall,weekly,45.2753727,7515.007585,3.63E-05
-Low Stores Low Loyalty,TALLHSSE/THMSVL-FL,Weekend,Total Sales,overall,weekly,39.92538295,10390.72375,3.01E-05
-Medium Stores Low Loyalty,BOISE-ID,Weekend,Total Sales,overall,weekly,41.31218436,13907.98177,2.32E-05
-Low Stores Low Loyalty,NEW ORLEANS-LA,Weekend,Total Sales,overall,weekly,48.10949784,2393.887578,5.63E-05
-Low Stores Low Loyalty,SPOKANE-WA,Weekend,Total Sales,overall,weekly,46.86084102,13127.73956,2.83E-05
-Low Stores Medium Loyalty,WEST PALM BEACH-FL,Weekend,Total Sales,overall,weekly,44.48610076,13578.81576,1.94E-05
-Low Stores Low Loyalty,YAKIMA-WA,Weekend,Total Sales,overall,weekly,46.60570243,5604.308062,4.24E-05
-Medium Stores Low Loyalty,MIAMI/FT. LDRDA-FL,Weekend,Total Sales,overall,weekly,41.24948072,42491.29889,4.76E-06
+Medium Stores High Loyalty,DETROIT-MI,Tab Midweek,Total Sales,overall,weekly,40.98116701,34030.28533,1.06E-05
+Medium Stores High Loyalty,GRD RPD KMZ-MI,Tab Midweek,Total Sales,overall,weekly,36.87440659,11926.84291,3.26E-05
+High Stores High Loyalty,CHICAGO-IL,Tab Midweek,Total Sales,overall,weekly,38.64928402,57194.58597,7.80E-06
+Medium Stores Low Loyalty,DALLAS-TX,Tab Midweek,Total Sales,overall,weekly,40.90434287,28694.71619,1.31E-05
+Medium Stores High Loyalty,MILWAUKEE-WI,Tab Midweek,Total Sales,overall,weekly,36.83234789,26265.56688,1.81E-05
+Medium Stores High Loyalty,MINNEAPOLIS-MN,Tab Midweek,Total Sales,overall,weekly,40.27654905,25796.81159,1.58E-05
+Medium Stores High Loyalty,INDIANAPOLIS-IN,Tab Midweek,Total Sales,overall,weekly,33.77572822,21432.28319,1.69E-05
+Medium Stores High Loyalty,COLUMBUS-OH,Tab Midweek,Total Sales,overall,weekly,32.63099218,15286.21723,2.61E-05
+Medium Stores High Loyalty,ST. LOUIS-MO,Tab Midweek,Total Sales,overall,weekly,39.03765404,12983.58593,2.17E-05
+Medium Stores Low Loyalty,ATLANTA-GA,Tab Midweek,Total Sales,overall,weekly,34.44853522,18689.29486,1.82E-05
+Medium Stores High Loyalty,PHILADELPHIA-PA,Tab Midweek,Total Sales,overall,weekly,35.48271755,24088.86534,8.37E-06
+Medium Stores High Loyalty,CLEVELAND-OH,Tab Midweek,Total Sales,overall,weekly,38.61459258,30981.54364,1.26E-05
+Medium Stores High Loyalty,NEW HAVEN/HARTD-CT,Tab Midweek,Total Sales,overall,weekly,35.41905343,12279.84169,2.34E-05
+Medium Stores High Loyalty,BALTIMORE-MD,Tab Midweek,Total Sales,overall,weekly,31.00332028,10183.04225,2.90E-05
+Medium Stores High Loyalty,HBG/LANCAST-PA,Tab Midweek,Total Sales,overall,weekly,35.91797778,6790.78577,2.94E-05
+Medium Stores Low Loyalty,SALT LAKE CITY-UT,Tab Midweek,Total Sales,overall,weekly,34.97417389,8481.18787,3.47E-05
+High Stores High Loyalty,LOS ANGELES-CA,Tab Midweek,Total Sales,overall,weekly,38.371342,55220.09088,6.53E-06
+Medium Stores Low Loyalty,CHARLOTTE-NC,Tab Midweek,Total Sales,overall,weekly,35.32767497,9194.581654,3.41E-05
+Medium Stores High Loyalty,WASHINGTON D.C.,Tab Midweek,Total Sales,overall,weekly,62.24195045,19878.30449,1.92E-05
+Medium Stores High Loyalty,PITTSBURGH-PA,Tab Midweek,Total Sales,overall,weekly,35.42555732,12712.78752,2.32E-05
+Medium Stores High Loyalty,DENVER-CO,Tab Midweek,Total Sales,overall,weekly,38.34976282,22295.83891,2.04E-05
+High Stores High Loyalty,TRI-STATE-NY/NJ/CT,Tab Midweek,Total Sales,overall,weekly,39.27185571,96463.6228,3.49E-06
+Medium Stores Low Loyalty,HOUSTON-TX,Tab Midweek,Total Sales,overall,weekly,40.56187648,21315.06352,1.71E-05
+Medium Stores High Loyalty,BOSTON-MA,Tab Midweek,Total Sales,overall,weekly,39.97511657,16744.48772,1.49E-05
+Medium Stores Low Loyalty,PHOENIX-AZ,Tab Midweek,Total Sales,overall,weekly,32.89345052,21348.44768,1.69E-05
+Medium Stores Low Loyalty,SACRAMENTO-CA,Tab Midweek,Total Sales,overall,weekly,40.29232279,19345.12462,1.91E-05
+Medium Stores Low Loyalty,SAN DIEGO-CA,Tab Midweek,Total Sales,overall,weekly,27.02759572,13412.73125,1.48E-05
+Medium Stores Low Loyalty,SAN FRANCISCO-CA,Tab Midweek,Total Sales,overall,weekly,40.37997874,19075.3346,1.15E-05
+Medium Stores Low Loyalty,ORLNDO/DYTNA/MB-FL,Tab Midweek,Total Sales,overall,weekly,36.31881129,16329.25547,2.58E-05
+Medium Stores Low Loyalty,TMPA/ST.PT/LKLD-FL,Tab Midweek,Total Sales,overall,weekly,35.25722105,10264.08304,3.36E-05
+Medium Stores High Loyalty,BUFFALO-NY,Tab Midweek,Total Sales,overall,weekly,52.01705338,6539.010599,5.70E-05
+Medium Stores Low Loyalty,MIAMI/FT. LDRDA-FL,Tab Midweek,Total Sales,overall,weekly,43.82630067,10415.72881,3.12E-05
+Medium Stores High Loyalty,DETROIT-MI,Tab Sunday,Total Sales,overall,weekly,39.42527774,113703.959,3.14E-06
+Medium Stores High Loyalty,GRD RPD KMZ-MI,Tab Sunday,Total Sales,overall,weekly,49.80222385,53243.67868,1.01E-05
+High Stores High Loyalty,CHICAGO-IL,Tab Sunday,Total Sales,overall,weekly,48.29792337,367035.2009,1.68E-06
+Medium Stores Low Loyalty,DALLAS-TX,Tab Sunday,Total Sales,overall,weekly,42.47810609,173817.4019,3.02E-06
+Low Stores Medium Loyalty,WILKES-BARRE-PA,Tab Sunday,Total Sales,overall,weekly,43.28126843,20759.49694,1.56E-05
+Medium Stores High Loyalty,MILWAUKEE-WI,Tab Sunday,Total Sales,overall,weekly,41.32773571,125565.4346,4.43E-06
+Medium Stores High Loyalty,LA CRSE/EAU CL-WI,Tab Sunday,Total Sales,overall,weekly,48.77222559,10222.62377,4.08E-05
+Medium Stores High Loyalty,MINNEAPOLIS-MN,Tab Sunday,Total Sales,overall,weekly,51.88747815,138498.7836,3.76E-06
+Medium Stores High Loyalty,PEORIA/BLMNGTN-IL,Tab Sunday,Total Sales,overall,weekly,51.39871783,24305.76029,2.75E-05
+Medium Stores High Loyalty,INDIANAPOLIS-IN,Tab Sunday,Total Sales,overall,weekly,41.4734516,83301.39391,5.17E-06
+Medium Stores High Loyalty,COLUMBUS-OH,Tab Sunday,Total Sales,overall,weekly,49.86770715,94777.40038,7.31E-06
+Medium Stores High Loyalty,GREENBAY/APLTN-WI,Tab Sunday,Total Sales,overall,weekly,36.63699821,38320.32497,1.17E-05
+Medium Stores High Loyalty,CHMPGN/SPRINFD-IL,Tab Sunday,Total Sales,overall,weekly,53.83739309,23809.5884,2.39E-05
+Medium Stores Low Loyalty,DES MOINES-IA,Tab Sunday,Total Sales,overall,weekly,45.09068732,12013.89554,2.14E-05
+Medium Stores High Loyalty,FORT WAYNE-IN,Tab Sunday,Total Sales,overall,weekly,49.11492708,25503.78291,2.30E-05
+Medium Stores Low Loyalty,OKLAHOMA CITY-OK,Tab Sunday,Total Sales,overall,weekly,40.18248231,50433.80265,1.16E-05
+Medium Stores Low Loyalty,OMAHA-NE,Tab Sunday,Total Sales,overall,weekly,46.15840933,33331.32355,1.99E-05
+Medium Stores High Loyalty,ST. LOUIS-MO,Tab Sunday,Total Sales,overall,weekly,40.69457881,83435.03646,6.45E-06
+Medium Stores High Loyalty,MADISON-WI,Tab Sunday,Total Sales,overall,weekly,55.11924506,27024.99889,2.06E-05
+Medium Stores Low Loyalty,ATLANTA-GA,Tab Sunday,Total Sales,overall,weekly,49.61776382,125510.087,3.62E-06
+Low Stores Medium Loyalty,FLNT/SGNW-BYCT-MI,Tab Sunday,Total Sales,overall,weekly,48.68812883,26097.8184,1.94E-05
+Medium Stores High Loyalty,PHILADELPHIA-PA,Tab Sunday,Total Sales,overall,weekly,44.5616563,225628.8968,2.22E-06
+Low Stores Medium Loyalty,PADUCAH-KY,Tab Sunday,Total Sales,overall,weekly,53.25651622,15341.11143,3.53E-05
+Medium Stores High Loyalty,NORFOLK-VA,Tab Sunday,Total Sales,overall,weekly,44.29502098,39643.99076,1.22E-05
+Medium Stores High Loyalty,CLEVELAND-OH,Tab Sunday,Total Sales,overall,weekly,43.50563608,146314.0893,3.67E-06
+Low Stores Low Loyalty,MONTEREY/SALINA-CA,Tab Sunday,Total Sales,overall,weekly,49.57810054,17112.78154,3.53E-05
+Medium Stores High Loyalty,NEW HAVEN/HARTD-CT,Tab Sunday,Total Sales,overall,weekly,45.81266252,109186.6099,6.27E-06
+Low Stores Medium Loyalty,EVANSVILLE-IN,Tab Sunday,Total Sales,overall,weekly,46.2785075,17717.59846,3.08E-05
+Medium Stores Low Loyalty,LEXINGTON-KY,Tab Sunday,Total Sales,overall,weekly,45.99995674,30273.07951,1.94E-05
+Medium Stores High Loyalty,BALTIMORE-MD,Tab Sunday,Total Sales,overall,weekly,37.39363394,63906.966,6.83E-06
+Low Stores Medium Loyalty,PORTLAND-ME,Tab Sunday,Total Sales,overall,weekly,34.9346641,10362.10809,2.79E-05
+Medium Stores Low Loyalty,RALEIGH-NC,Tab Sunday,Total Sales,overall,weekly,44.22076101,50688.62439,1.05E-05
+Medium Stores High Loyalty,LINCOLN-NE,Tab Sunday,Total Sales,overall,weekly,55.05865264,16691.15651,3.65E-05
+Medium Stores High Loyalty,HBG/LANCAST-PA,Tab Sunday,Total Sales,overall,weekly,45.27517321,45325.77319,8.59E-06
+Low Stores Medium Loyalty,TRI CITIES-TN,Tab Sunday,Total Sales,overall,weekly,48.10876577,10151.68125,4.42E-05
+Medium Stores Low Loyalty,AUSTIN-TX,Tab Sunday,Total Sales,overall,weekly,49.98246836,39225.9011,1.90E-05
+Low Stores Medium Loyalty,ROANOKE/LYCHBRG-VA,Tab Sunday,Total Sales,overall,weekly,52.95824938,11670.48616,3.80E-05
+Medium Stores Low Loyalty,SALT LAKE CITY-UT,Tab Sunday,Total Sales,overall,weekly,48.45928017,48486.41577,1.11E-05
+High Stores High Loyalty,LOS ANGELES-CA,Tab Sunday,Total Sales,overall,weekly,47.21953028,394505.504,1.24E-06
+Low Stores Medium Loyalty,DAVENPORT-IA,Tab Sunday,Total Sales,overall,weekly,51.90943113,25095.12121,2.33E-05
+Medium Stores High Loyalty,FARGO-ND,Tab Sunday,Total Sales,overall,weekly,61.63496716,11059.33667,4.39E-05
+Medium Stores High Loyalty,DAYTON-OH,Tab Sunday,Total Sales,overall,weekly,46.94749593,58797.18931,1.08E-05
+Medium Stores High Loyalty,CINCINNATI-OH,Tab Sunday,Total Sales,overall,weekly,40.76802081,65825.32286,7.43E-06
+Medium Stores High Loyalty,CEDAR RAPIDS-IA,Tab Sunday,Total Sales,overall,weekly,45.99743953,27596.40831,2.22E-05
+Medium Stores High Loyalty,TOLEDO-OH,Tab Sunday,Total Sales,overall,weekly,43.25501919,31046.78257,1.37E-05
+Medium Stores Low Loyalty,KANSAS CT-KS / MO,Tab Sunday,Total Sales,overall,weekly,60.48986674,68509.79525,1.05E-05
+Medium Stores High Loyalty,YOUNGSTOWN-OH,Tab Sunday,Total Sales,overall,weekly,34.39585738,13990.87747,2.45E-05
+Medium Stores High Loyalty,LANSING/JACKSON-MI,Tab Sunday,Total Sales,overall,weekly,43.18795094,15803.10996,2.59E-05
+Medium Stores High Loyalty,SPRINGFIELD-MO,Tab Sunday,Total Sales,overall,weekly,41.83600243,7832.479308,4.20E-05
+Medium Stores High Loyalty,WICHITA-KS,Tab Sunday,Total Sales,overall,weekly,48.55767833,29564.50029,2.07E-05
+Medium Stores Low Loyalty,CHARLOTTE-NC,Tab Sunday,Total Sales,overall,weekly,43.88956897,53156.22983,8.35E-06
+Medium Stores High Loyalty,LOUISVILLE-KY,Tab Sunday,Total Sales,overall,weekly,38.95335949,29362.63053,1.10E-05
+Low Stores Medium Loyalty,SOUTH BEND-IN,Tab Sunday,Total Sales,overall,weekly,43.09569497,30869.78152,1.55E-05
+Medium Stores High Loyalty,WASHINGTON D.C.,Tab Sunday,Total Sales,overall,weekly,49.60138448,127246.4957,3.70E-06
+Low Stores Medium Loyalty,GREENSBORO-NC,Tab Sunday,Total Sales,overall,weekly,47.25888933,25116.98947,1.45E-05
+Medium Stores High Loyalty,PITTSBURGH-PA,Tab Sunday,Total Sales,overall,weekly,43.45844288,56522.94278,7.33E-06
+Low Stores Medium Loyalty,KNOXVILLE-TN,Tab Sunday,Total Sales,overall,weekly,45.96633687,24481.54796,2.22E-05
+Medium Stores High Loyalty,RICHMOND-VA,Tab Sunday,Total Sales,overall,weekly,48.4058903,39567.30076,1.65E-05
+Medium Stores High Loyalty,DENVER-CO,Tab Sunday,Total Sales,overall,weekly,42.92717782,132698.0063,4.47E-06
+High Stores High Loyalty,TRI-STATE-NY/NJ/CT,Tab Sunday,Total Sales,overall,weekly,41.43506136,473651.597,9.57E-07
+Medium Stores High Loyalty,TULSA-OK,Tab Sunday,Total Sales,overall,weekly,40.71459934,27219.72118,1.68E-05
+Low Stores Low Loyalty,CHATTANOOGA-TN,Tab Sunday,Total Sales,overall,weekly,57.31399435,13441.89246,3.60E-05
+Medium Stores Low Loyalty,FAYETTEVL/FT.SM-AR,Tab Sunday,Total Sales,overall,weekly,45.18960563,15255.89365,3.20E-05
+Medium Stores High Loyalty,COLORADO SPRNGS-CO,Tab Sunday,Total Sales,overall,weekly,45.14912967,31302.82247,1.70E-05
+Medium Stores High Loyalty,SANTA BARBARA-CA,Tab Sunday,Total Sales,overall,weekly,45.38154048,15204.62348,3.56E-05
+Low Stores Medium Loyalty,GREENVILLE-SC,Tab Sunday,Total Sales,overall,weekly,41.78487428,16445.00464,1.61E-05
+Medium Stores Low Loyalty,EL PASO-TX,Tab Sunday,Total Sales,overall,weekly,33.22143358,23917.48761,1.19E-05
+Medium Stores Low Loyalty,HOUSTON-TX,Tab Sunday,Total Sales,overall,weekly,61.59675972,122971.3054,5.38E-06
+Medium Stores Low Loyalty,NASHVILLE-TN,Tab Sunday,Total Sales,overall,weekly,38.7474774,47566.4051,1.04E-05
+Medium Stores High Loyalty,BOSTON-MA,Tab Sunday,Total Sales,overall,weekly,44.17431916,120843.7643,3.60E-06
+Medium Stores High Loyalty,PROVIDENCE-RI,Tab Sunday,Total Sales,overall,weekly,53.37890039,31296.19702,1.64E-05
+Low Stores Medium Loyalty,HUNTSVILLE-AL,Tab Sunday,Total Sales,overall,weekly,45.2498323,14124.91616,3.34E-05
+Medium Stores High Loyalty,COLUMBIA-SC,Tab Sunday,Total Sales,overall,weekly,60.89461692,20982.38366,2.99E-05
+Medium Stores Low Loyalty,PHOENIX-AZ,Tab Sunday,Total Sales,overall,weekly,27.73820242,76680.51386,3.40E-06
+Low Stores Medium Loyalty,SPRINGFIELD-MA,Tab Sunday,Total Sales,overall,weekly,47.06408914,23443.83495,2.65E-05
+Medium Stores Low Loyalty,SAN ANTONIO-TX,Tab Sunday,Total Sales,overall,weekly,45.59862715,39171.89134,1.12E-05
+Low Stores Low Loyalty,BIRMINGHAM-AL,Tab Sunday,Total Sales,overall,weekly,48.69721724,18687.93803,3.36E-05
+Medium Stores Low Loyalty,SACRAMENTO-CA,Tab Sunday,Total Sales,overall,weekly,61.94315456,120296.9384,6.00E-06
+Medium Stores Low Loyalty,LAS VEGAS-NV,Tab Sunday,Total Sales,overall,weekly,48.8523616,45449.7741,1.23E-05
+Medium Stores Low Loyalty,SAN DIEGO-CA,Tab Sunday,Total Sales,overall,weekly,60.52872522,80244.14758,7.15E-06
+Medium Stores High Loyalty,TUCSON-AZ,Tab Sunday,Total Sales,overall,weekly,35.21146227,9723.888651,2.54E-05
+Low Stores Medium Loyalty,ALBANY-NY,Tab Sunday,Total Sales,overall,weekly,56.78265796,21502.58754,2.07E-05
+Low Stores Low Loyalty,LITTLE ROCK-AR,Tab Sunday,Total Sales,overall,weekly,44.62662353,23113.91692,2.21E-05
+Medium Stores Low Loyalty,FRESNO/VISALIA-CA,Tab Sunday,Total Sales,overall,weekly,64.06670937,39493.85759,1.59E-05
+Low Stores Low Loyalty,MEMPHIS-TN,Tab Sunday,Total Sales,overall,weekly,56.67471519,19947.7698,3.93E-05
+Low Stores Medium Loyalty,SYRACUSE-NY,Tab Sunday,Total Sales,overall,weekly,58.24566012,18548.61673,2.88E-05
+Medium Stores Low Loyalty,SAN FRANCISCO-CA,Tab Sunday,Total Sales,overall,weekly,58.6420635,123795.8782,3.88E-06
+Low Stores Low Loyalty,CHARLESTON-SC,Tab Sunday,Total Sales,overall,weekly,54.56571165,15114.86667,4.05E-05
+Low Stores Medium Loyalty,ROCHESTER-NY,Tab Sunday,Total Sales,overall,weekly,47.76796695,24043.48256,2.10E-05
+Medium Stores Low Loyalty,WACO/TMPL/BRYAN-TX,Tab Sunday,Total Sales,overall,weekly,46.51044453,18014.40211,2.59E-05
+Medium Stores High Loyalty,JACKSONVILLE-FL,Tab Sunday,Total Sales,overall,weekly,37.54537843,32253.27789,1.84E-05
+Medium Stores Low Loyalty,MCALLEN-TX,Tab Sunday,Total Sales,overall,weekly,36.15345368,16205.35635,1.87E-05
+Medium Stores Low Loyalty,ORLNDO/DYTNA/MB-FL,Tab Sunday,Total Sales,overall,weekly,45.10556669,82518.28659,5.38E-06
+Medium Stores Low Loyalty,TMPA/ST.PT/LKLD-FL,Tab Sunday,Total Sales,overall,weekly,49.58153128,62326.09726,7.42E-06
+Medium Stores High Loyalty,BUFFALO-NY,Tab Sunday,Total Sales,overall,weekly,69.50291438,32631.1219,1.82E-05
+Medium Stores High Loyalty,RENO-NV,Tab Sunday,Total Sales,overall,weekly,35.04133108,7379.705435,3.22E-05
+Medium Stores Low Loyalty,PORTLAND-OR,Tab Sunday,Total Sales,overall,weekly,40.86655511,31029.90733,1.06E-05
+Low Stores Low Loyalty,EUGENE-OR,Tab Sunday,Total Sales,overall,weekly,41.82444113,10920.1534,3.48E-05
+Low Stores Medium Loyalty,FORT MYRS/NAPLS-FL,Tab Sunday,Total Sales,overall,weekly,40.31915063,30575.89985,1.45E-05
+Medium Stores Low Loyalty,SEATTLE-WA,Tab Sunday,Total Sales,overall,weekly,53.52020282,39667.08738,1.01E-05
+Low Stores Low Loyalty,MBLE/PNSCOLA-AL/FL,Tab Sunday,Total Sales,overall,weekly,45.79767005,19439.819,2.38E-05
+Medium Stores High Loyalty,ALBQ/SANTA FE-NM,Tab Sunday,Total Sales,overall,weekly,40.58996183,20239.32412,1.95E-05
+Medium Stores Low Loyalty,BOISE-ID,Tab Sunday,Total Sales,overall,weekly,43.2702256,15512.07853,2.41E-05
+Low Stores Low Loyalty,SPOKANE-WA,Tab Sunday,Total Sales,overall,weekly,47.45205218,11585.15001,3.26E-05
+Low Stores Medium Loyalty,WEST PALM BEACH-FL,Tab Sunday,Total Sales,overall,weekly,51.18759344,21480.80543,2.40E-05
+Low Stores Low Loyalty,YAKIMA-WA,Tab Sunday,Total Sales,overall,weekly,47.10356797,7851.72592,4.43E-05
+Medium Stores Low Loyalty,MIAMI/FT. LDRDA-FL,Tab Sunday,Total Sales,overall,weekly,56.15867995,56452.29348,8.68E-06
+Medium Stores High Loyalty,DETROIT-MI,Tab Weekend,Total Sales,overall,weekly,41.16820422,139025.5019,2.61E-06
+Medium Stores High Loyalty,GRD RPD KMZ-MI,Tab Weekend,Total Sales,overall,weekly,44.37516122,51834.33733,7.85E-06
+High Stores High Loyalty,CHICAGO-IL,Tab Weekend,Total Sales,overall,weekly,40.39993636,726458.1195,9.41E-07
+Medium Stores Low Loyalty,DALLAS-TX,Tab Weekend,Total Sales,overall,weekly,39.60355944,248419.8172,1.90E-06
+Low Stores Medium Loyalty,WILKES-BARRE-PA,Tab Weekend,Total Sales,overall,weekly,41.95185976,27638.9191,1.14E-05
+Low Stores Low Loyalty,YUMA-AZ,Tab Weekend,Total Sales,overall,weekly,32.67640787,9709.134226,2.07E-05
+Medium Stores High Loyalty,MILWAUKEE-WI,Tab Weekend,Total Sales,overall,weekly,39.40486178,305651.5236,2.65E-06
+Medium Stores High Loyalty,LA CRSE/EAU CL-WI,Tab Weekend,Total Sales,overall,weekly,43.22413416,19044.85342,2.20E-05
+Medium Stores High Loyalty,MINNEAPOLIS-MN,Tab Weekend,Total Sales,overall,weekly,43.23962947,202632.7198,2.54E-06
+Medium Stores High Loyalty,PEORIA/BLMNGTN-IL,Tab Weekend,Total Sales,overall,weekly,51.8152874,23122.5181,2.04E-05
+Medium Stores High Loyalty,INDIANAPOLIS-IN,Tab Weekend,Total Sales,overall,weekly,39.5768065,157406.1098,2.98E-06
+Medium Stores High Loyalty,COLUMBUS-OH,Tab Weekend,Total Sales,overall,weekly,36.31487742,197082.5679,3.27E-06
+Medium Stores High Loyalty,GREENBAY/APLTN-WI,Tab Weekend,Total Sales,overall,weekly,33.38717697,44433.32626,8.98E-06
+Medium Stores High Loyalty,CHMPGN/SPRINFD-IL,Tab Weekend,Total Sales,overall,weekly,47.94344267,37995.94124,1.29E-05
+Medium Stores Low Loyalty,DES MOINES-IA,Tab Weekend,Total Sales,overall,weekly,41.04772123,24029.03161,1.62E-05
+Medium Stores High Loyalty,FORT WAYNE-IN,Tab Weekend,Total Sales,overall,weekly,38.66366322,21947.43435,1.57E-05
+Medium Stores Low Loyalty,OKLAHOMA CITY-OK,Tab Weekend,Total Sales,overall,weekly,35.87991323,41859.36019,8.14E-06
+Medium Stores Low Loyalty,OMAHA-NE,Tab Weekend,Total Sales,overall,weekly,45.57430886,35834.86439,1.23E-05
+Medium Stores High Loyalty,ST. LOUIS-MO,Tab Weekend,Total Sales,overall,weekly,37.5020672,160280.2112,3.83E-06
+Medium Stores High Loyalty,MADISON-WI,Tab Weekend,Total Sales,overall,weekly,46.32244525,66629.72426,9.17E-06
+Medium Stores Low Loyalty,ATLANTA-GA,Tab Weekend,Total Sales,overall,weekly,33.60380592,221130.9702,1.70E-06
+Medium Stores High Loyalty,ROCKFORD-IL,Tab Weekend,Total Sales,overall,weekly,38.40830334,31417.62877,1.61E-05
+Low Stores Medium Loyalty,FLNT/SGNW-BYCT-MI,Tab Weekend,Total Sales,overall,weekly,43.1361364,37034.55709,1.42E-05
+Medium Stores High Loyalty,PHILADELPHIA-PA,Tab Weekend,Total Sales,overall,weekly,38.93974531,554490.9476,1.01E-06
+Low Stores Medium Loyalty,PADUCAH-KY,Tab Weekend,Total Sales,overall,weekly,50.2793819,29218.28707,1.61E-05
+Medium Stores High Loyalty,NORFOLK-VA,Tab Weekend,Total Sales,overall,weekly,37.01749937,36060.98932,8.07E-06
+Medium Stores High Loyalty,CLEVELAND-OH,Tab Weekend,Total Sales,overall,weekly,40.26794505,233416.2472,2.15E-06
+Low Stores Low Loyalty,MONTEREY/SALINA-CA,Tab Weekend,Total Sales,overall,weekly,41.02732276,7284.557828,3.16E-05
+Medium Stores High Loyalty,NEW HAVEN/HARTD-CT,Tab Weekend,Total Sales,overall,weekly,38.54705943,187439.2861,3.23E-06
+Low Stores Medium Loyalty,EVANSVILLE-IN,Tab Weekend,Total Sales,overall,weekly,42.27561003,19357.88723,2.20E-05
+Medium Stores Low Loyalty,LEXINGTON-KY,Tab Weekend,Total Sales,overall,weekly,39.43594066,25920.04792,1.25E-05
+Medium Stores High Loyalty,BALTIMORE-MD,Tab Weekend,Total Sales,overall,weekly,33.43349739,127435.2971,3.13E-06
+Low Stores Medium Loyalty,PORTLAND-ME,Tab Weekend,Total Sales,overall,weekly,33.60733696,18038.44692,1.39E-05
+Medium Stores Low Loyalty,RALEIGH-NC,Tab Weekend,Total Sales,overall,weekly,31.30961203,77035.10276,3.65E-06
+Medium Stores High Loyalty,LINCOLN-NE,Tab Weekend,Total Sales,overall,weekly,48.83191693,11332.79948,2.56E-05
+Medium Stores High Loyalty,HBG/LANCAST-PA,Tab Weekend,Total Sales,overall,weekly,42.31105525,77459.2616,5.40E-06
+Low Stores Medium Loyalty,TRI CITIES-TN,Tab Weekend,Total Sales,overall,weekly,46.64961856,7034.847986,3.54E-05
+Medium Stores Low Loyalty,AUSTIN-TX,Tab Weekend,Total Sales,overall,weekly,42.6578872,24635.96302,7.96E-06
+Low Stores Medium Loyalty,ROANOKE/LYCHBRG-VA,Tab Weekend,Total Sales,overall,weekly,45.51815518,6640.458884,2.99E-05
+Medium Stores Low Loyalty,SALT LAKE CITY-UT,Tab Weekend,Total Sales,overall,weekly,42.02045686,40335.03927,8.39E-06
+High Stores High Loyalty,LOS ANGELES-CA,Tab Weekend,Total Sales,overall,weekly,39.22706299,464490.1398,8.04E-07
+Low Stores Medium Loyalty,DAVENPORT-IA,Tab Weekend,Total Sales,overall,weekly,48.9139828,22465.84826,1.62E-05
+Medium Stores High Loyalty,FARGO-ND,Tab Weekend,Total Sales,overall,weekly,47.15306109,6789.454033,3.61E-05
+Medium Stores High Loyalty,DAYTON-OH,Tab Weekend,Total Sales,overall,weekly,39.92749112,38750.38126,8.64E-06
+Medium Stores High Loyalty,CINCINNATI-OH,Tab Weekend,Total Sales,overall,weekly,34.29955563,104679.9017,4.50E-06
+Medium Stores High Loyalty,CEDAR RAPIDS-IA,Tab Weekend,Total Sales,overall,weekly,43.4376672,27126.48902,1.52E-05
+Medium Stores High Loyalty,ERIE-PA,Tab Weekend,Total Sales,overall,weekly,50.18427195,10023.18283,3.61E-05
+Medium Stores High Loyalty,TOLEDO-OH,Tab Weekend,Total Sales,overall,weekly,39.96420223,60094.41074,8.35E-06
+Medium Stores Low Loyalty,KANSAS CT-KS / MO,Tab Weekend,Total Sales,overall,weekly,44.18469081,84083.76848,5.63E-06
+Medium Stores High Loyalty,YOUNGSTOWN-OH,Tab Weekend,Total Sales,overall,weekly,32.9343986,16306.8209,1.78E-05
+Medium Stores High Loyalty,LANSING/JACKSON-MI,Tab Weekend,Total Sales,overall,weekly,35.9956706,15039.51455,2.01E-05
+Medium Stores High Loyalty,SPRINGFIELD-MO,Tab Weekend,Total Sales,overall,weekly,34.8226342,17174.22787,2.19E-05
+Medium Stores High Loyalty,WICHITA-KS,Tab Weekend,Total Sales,overall,weekly,42.62500835,23034.70879,1.80E-05
+Medium Stores Low Loyalty,CHARLOTTE-NC,Tab Weekend,Total Sales,overall,weekly,35.12328111,55749.88971,4.61E-06
+Medium Stores High Loyalty,LOUISVILLE-KY,Tab Weekend,Total Sales,overall,weekly,34.48278929,43125.51263,8.09E-06
+Low Stores Medium Loyalty,SOUTH BEND-IN,Tab Weekend,Total Sales,overall,weekly,41.00298319,21575.35252,1.45E-05
+Low Stores Medium Loyalty,CHRLSTN/HNTNGTN-WV,Tab Weekend,Total Sales,overall,weekly,35.23080172,6973.510802,2.54E-05
+Medium Stores High Loyalty,WASHINGTON D.C.,Tab Weekend,Total Sales,overall,weekly,45.17942397,206247.3543,2.31E-06
+Low Stores Medium Loyalty,GREENSBORO-NC,Tab Weekend,Total Sales,overall,weekly,42.43030707,22443.58347,1.01E-05
+Medium Stores High Loyalty,PITTSBURGH-PA,Tab Weekend,Total Sales,overall,weekly,37.29349898,113782.4657,3.73E-06
+Low Stores Medium Loyalty,KNOXVILLE-TN,Tab Weekend,Total Sales,overall,weekly,36.29091953,30005.53996,9.63E-06
+Medium Stores High Loyalty,RICHMOND-VA,Tab Weekend,Total Sales,overall,weekly,46.43102776,29118.5574,1.25E-05
+Medium Stores High Loyalty,DENVER-CO,Tab Weekend,Total Sales,overall,weekly,44.58281317,146432.3825,3.39E-06
+Medium Stores High Loyalty,ROCHESTER-MN,Tab Weekend,Total Sales,overall,weekly,44.70518431,9737.455873,3.34E-05
+High Stores High Loyalty,TRI-STATE-NY/NJ/CT,Tab Weekend,Total Sales,overall,weekly,39.54842188,1084285.359,4.82E-07
+Medium Stores High Loyalty,TULSA-OK,Tab Weekend,Total Sales,overall,weekly,42.13889215,27319.54136,1.63E-05
+Low Stores Low Loyalty,CHATTANOOGA-TN,Tab Weekend,Total Sales,overall,weekly,38.07954957,17519.65341,1.32E-05
+Low Stores Medium Loyalty,WAUSAU-WI,Tab Weekend,Total Sales,overall,weekly,36.38818415,34935.36254,1.88E-05
+Medium Stores Low Loyalty,FAYETTEVL/FT.SM-AR,Tab Weekend,Total Sales,overall,weekly,43.62568681,13460.9074,2.29E-05
+Medium Stores High Loyalty,COLORADO SPRNGS-CO,Tab Weekend,Total Sales,overall,weekly,40.58739531,34852.23664,1.21E-05
+Medium Stores High Loyalty,SANTA BARBARA-CA,Tab Weekend,Total Sales,overall,weekly,43.05910921,9146.556916,2.95E-05
+Low Stores Medium Loyalty,GREENVILLE-SC,Tab Weekend,Total Sales,overall,weekly,37.65760867,37721.71898,7.98E-06
+Medium Stores Low Loyalty,EL PASO-TX,Tab Weekend,Total Sales,overall,weekly,28.23388992,18453.02526,8.53E-06
+Medium Stores Low Loyalty,HOUSTON-TX,Tab Weekend,Total Sales,overall,weekly,34.71622067,109100.1638,2.20E-06
+Medium Stores Low Loyalty,NASHVILLE-TN,Tab Weekend,Total Sales,overall,weekly,36.92458457,45208.01323,6.42E-06
+Medium Stores High Loyalty,BOSTON-MA,Tab Weekend,Total Sales,overall,weekly,38.92207136,280395.6849,1.86E-06
+Medium Stores High Loyalty,PROVIDENCE-RI,Tab Weekend,Total Sales,overall,weekly,42.47563698,102466.1325,5.72E-06
+Low Stores Medium Loyalty,HUNTSVILLE-AL,Tab Weekend,Total Sales,overall,weekly,37.87392856,16242.6998,1.82E-05
+Medium Stores High Loyalty,COLUMBIA-SC,Tab Weekend,Total Sales,overall,weekly,46.19217839,19590.51531,1.91E-05
+Low Stores Medium Loyalty,TRAVERSE CITY-MI,Tab Weekend,Total Sales,overall,weekly,38.56790372,12144.76574,2.80E-05
+Medium Stores Low Loyalty,PHOENIX-AZ,Tab Weekend,Total Sales,overall,weekly,37.31722708,97455.67944,2.84E-06
+Low Stores Medium Loyalty,SPRINGFIELD-MA,Tab Weekend,Total Sales,overall,weekly,47.32976435,18643.99977,2.23E-05
+Medium Stores Low Loyalty,SAN ANTONIO-TX,Tab Weekend,Total Sales,overall,weekly,47.54399496,41160.84928,8.09E-06
+Low Stores Low Loyalty,BIRMINGHAM-AL,Tab Weekend,Total Sales,overall,weekly,41.47188288,18078.26253,1.67E-05
+Medium Stores Low Loyalty,SACRAMENTO-CA,Tab Weekend,Total Sales,overall,weekly,46.65601216,90006.34814,3.62E-06
+Medium Stores Low Loyalty,LAS VEGAS-NV,Tab Weekend,Total Sales,overall,weekly,39.8726888,39356.15098,7.56E-06
+Medium Stores Low Loyalty,SAN DIEGO-CA,Tab Weekend,Total Sales,overall,weekly,39.98675807,42322.23148,4.10E-06
+Medium Stores Low Loyalty,PALM SPRINGS-CA,Tab Weekend,Total Sales,overall,weekly,37.95996267,10723.96089,3.05E-05
+Medium Stores High Loyalty,TUCSON-AZ,Tab Weekend,Total Sales,overall,weekly,39.20761715,12673.06779,1.49E-05
+Low Stores Medium Loyalty,ALBANY-NY,Tab Weekend,Total Sales,overall,weekly,52.19171094,34811.37955,1.33E-05
+Low Stores Low Loyalty,LITTLE ROCK-AR,Tab Weekend,Total Sales,overall,weekly,41.72735668,22829.06743,1.66E-05
+Medium Stores Low Loyalty,FRESNO/VISALIA-CA,Tab Weekend,Total Sales,overall,weekly,49.34448962,26622.00838,1.26E-05
+Medium Stores High Loyalty,BAKERSFIELD-CA,Tab Weekend,Total Sales,overall,weekly,39.81681365,10521.99442,3.03E-05
+Low Stores Low Loyalty,MEMPHIS-TN,Tab Weekend,Total Sales,overall,weekly,44.41617037,13683.02991,2.61E-05
+Low Stores Medium Loyalty,SYRACUSE-NY,Tab Weekend,Total Sales,overall,weekly,50.01840931,14774.54356,2.38E-05
+Low Stores Medium Loyalty,HARRISONBURG-VA,Tab Weekend,Total Sales,overall,weekly,44.34526798,9094.568102,3.83E-05
+Medium Stores Low Loyalty,SAN FRANCISCO-CA,Tab Weekend,Total Sales,overall,weekly,38.37089881,85895.16442,2.25E-06
+Low Stores Low Loyalty,CHARLESTON-SC,Tab Weekend,Total Sales,overall,weekly,47.03020118,14713.27797,2.24E-05
+Low Stores Medium Loyalty,ROCHESTER-NY,Tab Weekend,Total Sales,overall,weekly,46.34445782,28293.9499,1.65E-05
+Medium Stores Low Loyalty,WACO/TMPL/BRYAN-TX,Tab Weekend,Total Sales,overall,weekly,42.86832583,15533.16169,2.11E-05
+Medium Stores High Loyalty,JACKSONVILLE-FL,Tab Weekend,Total Sales,overall,weekly,33.91300944,34901.0181,9.51E-06
+Medium Stores Low Loyalty,MCALLEN-TX,Tab Weekend,Total Sales,overall,weekly,35.07732184,17894.8829,9.55E-06
+Medium Stores Low Loyalty,ORLNDO/DYTNA/MB-FL,Tab Weekend,Total Sales,overall,weekly,36.54601646,91333.2085,2.97E-06
+Medium Stores Low Loyalty,TMPA/ST.PT/LKLD-FL,Tab Weekend,Total Sales,overall,weekly,43.35015522,50856.23235,5.93E-06
+Medium Stores High Loyalty,BUFFALO-NY,Tab Weekend,Total Sales,overall,weekly,57.4135435,28581.246,1.42E-05
+Low Stores Medium Loyalty,JOHNSTOWN/ALTNA-PA,Tab Weekend,Total Sales,overall,weekly,48.02168085,9647.128702,4.02E-05
+Medium Stores High Loyalty,RENO-NV,Tab Weekend,Total Sales,overall,weekly,32.33466481,14476.61034,1.92E-05
+Medium Stores Low Loyalty,PORTLAND-OR,Tab Weekend,Total Sales,overall,weekly,37.40476196,48326.8718,5.86E-06
+Medium Stores High Loyalty,COLMBA/JEFFRSON-MO,Tab Weekend,Total Sales,overall,weekly,37.1961846,15712.65646,2.58E-05
+Low Stores Low Loyalty,COLUMBUS-GA,Tab Weekend,Total Sales,overall,weekly,42.88135715,9267.613762,3.20E-05
+Low Stores Low Loyalty,EUGENE-OR,Tab Weekend,Total Sales,overall,weekly,42.1596469,9196.381956,3.01E-05
+Low Stores Medium Loyalty,FORT MYRS/NAPLS-FL,Tab Weekend,Total Sales,overall,weekly,36.74490263,12567.0228,1.50E-05
+Medium Stores Low Loyalty,SEATTLE-WA,Tab Weekend,Total Sales,overall,weekly,39.42768734,55131.04186,4.83E-06
+Low Stores Low Loyalty,MBLE/PNSCOLA-AL/FL,Tab Weekend,Total Sales,overall,weekly,39.17797153,10770.66112,2.04E-05
+Medium Stores High Loyalty,CHICO/REDDING-CA,Tab Weekend,Total Sales,overall,weekly,40.45584731,5533.585709,4.08E-05
+Medium Stores High Loyalty,ALBQ/SANTA FE-NM,Tab Weekend,Total Sales,overall,weekly,40.07357621,24131.37022,1.04E-05
+Medium Stores Low Loyalty,FLORNCE/MRTL BE-SC,Tab Weekend,Total Sales,overall,weekly,45.2753727,7515.007585,3.63E-05
+Low Stores Low Loyalty,TALLHSSE/THMSVL-FL,Tab Weekend,Total Sales,overall,weekly,39.92538295,10390.72375,3.01E-05
+Medium Stores Low Loyalty,BOISE-ID,Tab Weekend,Total Sales,overall,weekly,41.31218436,13907.98177,2.32E-05
+Low Stores Low Loyalty,NEW ORLEANS-LA,Tab Weekend,Total Sales,overall,weekly,48.10949784,2393.887578,5.63E-05
+Low Stores Low Loyalty,SPOKANE-WA,Tab Weekend,Total Sales,overall,weekly,46.86084102,13127.73956,2.83E-05
+Low Stores Medium Loyalty,WEST PALM BEACH-FL,Tab Weekend,Total Sales,overall,weekly,44.48610076,13578.81576,1.94E-05
+Low Stores Low Loyalty,YAKIMA-WA,Tab Weekend,Total Sales,overall,weekly,46.60570243,5604.308062,4.24E-05
+Medium Stores Low Loyalty,MIAMI/FT. LDRDA-FL,Tab Weekend,Total Sales,overall,weekly,41.24948072,42491.29889,4.76E-06
 Low Stores Low Loyalty,ABILENE-TX,Display,Total Sales,overall,weekly,1,1196.994359,0.009639038
 Low Stores Low Loyalty,ALBANY-GA,Display,Total Sales,overall,weekly,1,486.6661594,0.009792353
 Low Stores Medium Loyalty,ALBANY-NY,Display,Total Sales,overall,weekly,1,15517.9748,0.001494532
@@ -438,7 +438,7 @@ Medium Stores High Loyalty,TOLEDO-OH,Display,Total Sales,overall,weekly,1,13662.
 Medium Stores High Loyalty,TOPEKA-KS,Display,Total Sales,overall,weekly,1,1651.560449,0.006305518
 Low Stores Medium Loyalty,TRAVERSE CITY-MI,Display,Total Sales,overall,weekly,1,2708.765269,0.004451809
 Low Stores Medium Loyalty,TRI CITIES-TN,Display,Total Sales,overall,weekly,1,2999.167441,0.00354138
-High Stores High Loyalty,TRI-STATE-NY/NJ/CT,Display,Total Sales,overall,weekly,1,488086.4949,8.14839E-05
+High Stores High Loyalty,TRI-STATE-NY/NJ/CT,Display,Total Sales,overall,weekly,1,488086.4949,8.15E-05
 Medium Stores High Loyalty,TUCSON-AZ,Display,Total Sales,overall,weekly,1,20050.52327,0.001574055
 Medium Stores High Loyalty,TULSA-OK,Display,Total Sales,overall,weekly,1,9132.333234,0.001815375
 Low Stores Low Loyalty,TYLER/LONGVIEW-TX,Display,Total Sales,overall,weekly,1,4128.288668,0.003667504
@@ -492,7 +492,7 @@ Medium Stores Low Loyalty,CHARLOTTE-NC,TV Brand,Total Sales,overall,weekly,1,723
 Low Stores Low Loyalty,CHARLOTTESVILLE,TV Brand,Total Sales,overall,weekly,1,4291.171301,0.0048299
 Low Stores Low Loyalty,CHATTANOOGA-TN,TV Brand,Total Sales,overall,weekly,1,18436.91518,0.001037619
 Low Stores Low Loyalty,CHEYENNE- WY,TV Brand,Total Sales,overall,weekly,1,5723.81522,0.005329356
-High Stores High Loyalty,CHICAGO-IL,TV Brand,Total Sales,overall,weekly,1,420282.464,8.25014E-05
+High Stores High Loyalty,CHICAGO-IL,TV Brand,Total Sales,overall,weekly,1,420282.464,8.25E-05
 Medium Stores High Loyalty,CHICO/REDDING-CA,TV Brand,Total Sales,overall,weekly,1,16236.45316,0.001679993
 Medium Stores High Loyalty,CINCINNATI-OH,TV Brand,Total Sales,overall,weekly,1,96337.29998,0.000332682
 Low Stores Medium Loyalty,CLARKSBURG-WV,TV Brand,Total Sales,overall,weekly,1,7360.314372,0.003214721
@@ -559,7 +559,7 @@ Medium Stores Low Loyalty,LEXINGTON-KY,TV Brand,Total Sales,overall,weekly,1,332
 Low Stores Medium Loyalty,LIMA-OH,TV Brand,Total Sales,overall,weekly,1,12648.45311,0.003658348
 Medium Stores High Loyalty,LINCOLN-NE,TV Brand,Total Sales,overall,weekly,1,22231.43761,0.001170607
 Low Stores Low Loyalty,LITTLE ROCK-AR,TV Brand,Total Sales,overall,weekly,1,22732.87283,0.000700503
-High Stores High Loyalty,LOS ANGELES-CA,TV Brand,Total Sales,overall,weekly,1,402657.3735,6.01305E-05
+High Stores High Loyalty,LOS ANGELES-CA,TV Brand,Total Sales,overall,weekly,1,402657.3735,6.01E-05
 Medium Stores High Loyalty,LOUISVILLE-KY,TV Brand,Total Sales,overall,weekly,1,63249.9966,0.000465071
 Medium Stores High Loyalty,LUBBOCK-TX,TV Brand,Total Sales,overall,weekly,1,9112.561736,0.002253381
 Low Stores Low Loyalty,MACON-GA,TV Brand,Total Sales,overall,weekly,1,10917.31926,0.001587296
@@ -631,7 +631,7 @@ Medium Stores High Loyalty,TOLEDO-OH,TV Brand,Total Sales,overall,weekly,1,49200
 Medium Stores High Loyalty,TOPEKA-KS,TV Brand,Total Sales,overall,weekly,1,8049.845127,0.002138164
 Low Stores Medium Loyalty,TRAVERSE CITY-MI,TV Brand,Total Sales,overall,weekly,1,13829.35997,0.001488996
 Low Stores Medium Loyalty,TRI CITIES-TN,TV Brand,Total Sales,overall,weekly,1,11108.59768,0.00129182
-High Stores High Loyalty,TRI-STATE-NY/NJ/CT,TV Brand,Total Sales,overall,weekly,1,637950.7085,4.32478E-05
+High Stores High Loyalty,TRI-STATE-NY/NJ/CT,TV Brand,Total Sales,overall,weekly,1,637950.7085,4.32E-05
 Medium Stores High Loyalty,TUCSON-AZ,TV Brand,Total Sales,overall,weekly,1,24770.90338,0.000823267
 Medium Stores High Loyalty,TULSA-OK,TV Brand,Total Sales,overall,weekly,1,22661.87509,0.000743966
 Low Stores Low Loyalty,TYLER/LONGVIEW-TX,TV Brand,Total Sales,overall,weekly,1,14850.78299,0.001354146
@@ -685,7 +685,7 @@ Medium Stores Low Loyalty,CHARLOTTE-NC,TV Event,Total Sales,overall,weekly,1,108
 Low Stores Low Loyalty,CHARLOTTESVILLE,TV Event,Total Sales,overall,weekly,1,6299.571893,0.004009375
 Low Stores Low Loyalty,CHATTANOOGA-TN,TV Event,Total Sales,overall,weekly,1,25841.41959,0.000884249
 Low Stores Low Loyalty,CHEYENNE- WY,TV Event,Total Sales,overall,weekly,1,10689.92511,0.003831449
-High Stores High Loyalty,CHICAGO-IL,TV Event,Total Sales,overall,weekly,1,650248.3613,6.29047E-05
+High Stores High Loyalty,CHICAGO-IL,TV Event,Total Sales,overall,weekly,1,650248.3613,6.29E-05
 Medium Stores High Loyalty,CHICO/REDDING-CA,TV Event,Total Sales,overall,weekly,1,16156.09091,0.001560375
 Medium Stores High Loyalty,CINCINNATI-OH,TV Event,Total Sales,overall,weekly,1,148197.7013,0.000256865
 Low Stores Medium Loyalty,CLARKSBURG-WV,TV Event,Total Sales,overall,weekly,1,8567.099737,0.002861106
@@ -752,7 +752,7 @@ Medium Stores Low Loyalty,LEXINGTON-KY,TV Event,Total Sales,overall,weekly,1,433
 Low Stores Medium Loyalty,LIMA-OH,TV Event,Total Sales,overall,weekly,1,17875.90066,0.002791773
 Medium Stores High Loyalty,LINCOLN-NE,TV Event,Total Sales,overall,weekly,1,34784.47588,0.000922324
 Low Stores Low Loyalty,LITTLE ROCK-AR,TV Event,Total Sales,overall,weekly,1,24946.02535,0.000663713
-High Stores High Loyalty,LOS ANGELES-CA,TV Event,Total Sales,overall,weekly,1,460512.3909,5.37281E-05
+High Stores High Loyalty,LOS ANGELES-CA,TV Event,Total Sales,overall,weekly,1,460512.3909,5.37E-05
 Medium Stores High Loyalty,LOUISVILLE-KY,TV Event,Total Sales,overall,weekly,1,83475.22766,0.000385391
 Medium Stores High Loyalty,LUBBOCK-TX,TV Event,Total Sales,overall,weekly,1,8077.422158,0.002240491
 Low Stores Low Loyalty,MACON-GA,TV Event,Total Sales,overall,weekly,1,10092.42342,0.001581398
@@ -783,7 +783,7 @@ Medium Stores Low Loyalty,PALM SPRINGS-CA,TV Event,Total Sales,overall,weekly,1,
 Low Stores Medium Loyalty,PANAMA CITY-FL,TV Event,Total Sales,overall,weekly,1,6716.887301,0.002605109
 Low Stores Medium Loyalty,PARKERSBURG-WV,TV Event,Total Sales,overall,weekly,1,11326.15867,0.003567748
 Medium Stores High Loyalty,PEORIA/BLMNGTN-IL,TV Event,Total Sales,overall,weekly,1,43326.20354,0.000912719
-Medium Stores High Loyalty,PHILADELPHIA-PA,TV Event,Total Sales,overall,weekly,1,461910.9764,8.01825E-05
+Medium Stores High Loyalty,PHILADELPHIA-PA,TV Event,Total Sales,overall,weekly,1,461910.9764,8.02E-05
 Medium Stores Low Loyalty,PHOENIX-AZ,TV Event,Total Sales,overall,weekly,1,166471.0051,0.000158231
 Medium Stores High Loyalty,PITTSBURGH-PA,TV Event,Total Sales,overall,weekly,1,138378.2618,0.000224804
 Low Stores Medium Loyalty,PORTLAND-ME,TV Event,Total Sales,overall,weekly,1,35092.94019,0.000745916
@@ -824,7 +824,7 @@ Medium Stores High Loyalty,TOLEDO-OH,TV Event,Total Sales,overall,weekly,1,81274
 Medium Stores High Loyalty,TOPEKA-KS,TV Event,Total Sales,overall,weekly,1,10818.03195,0.001872083
 Low Stores Medium Loyalty,TRAVERSE CITY-MI,TV Event,Total Sales,overall,weekly,1,20632.594,0.001229708
 Low Stores Medium Loyalty,TRI CITIES-TN,TV Event,Total Sales,overall,weekly,1,18384.46029,0.001073734
-High Stores High Loyalty,TRI-STATE-NY/NJ/CT,TV Event,Total Sales,overall,weekly,1,980575.2015,3.40541E-05
+High Stores High Loyalty,TRI-STATE-NY/NJ/CT,TV Event,Total Sales,overall,weekly,1,980575.2015,3.41E-05
 Medium Stores High Loyalty,TUCSON-AZ,TV Event,Total Sales,overall,weekly,1,26572.92488,0.000766243
 Medium Stores High Loyalty,TULSA-OK,TV Event,Total Sales,overall,weekly,1,25978.84619,0.000690141
 Low Stores Low Loyalty,TYLER/LONGVIEW-TX,TV Event,Total Sales,overall,weekly,1,15672.22756,0.00126945
@@ -878,7 +878,7 @@ Medium Stores Low Loyalty,CHARLOTTE-NC,Paid Search,Total Sales,overall,weekly,1,
 Low Stores Low Loyalty,CHARLOTTESVILLE,Paid Search,Total Sales,overall,weekly,1,322.8965389,0.197286721
 Low Stores Low Loyalty,CHATTANOOGA-TN,Paid Search,Total Sales,overall,weekly,1,3709.415504,0.017247222
 Low Stores Low Loyalty,CHEYENNE- WY,Paid Search,Total Sales,overall,weekly,1,245.2565506,0.307762054
-High Stores High Loyalty,CHICAGO-IL,Paid Search,Total Sales,overall,weekly,1,664488.924,9.65596E-05
+High Stores High Loyalty,CHICAGO-IL,Paid Search,Total Sales,overall,weekly,1,664488.924,9.66E-05
 Medium Stores High Loyalty,CHICO/REDDING-CA,Paid Search,Total Sales,overall,weekly,1,2172.916708,0.040617111
 Medium Stores High Loyalty,CINCINNATI-OH,Paid Search,Total Sales,overall,weekly,1,70221.99712,0.001094017
 Low Stores Medium Loyalty,CLARKSBURG-WV,Paid Search,Total Sales,overall,weekly,1,555.0979782,0.151210541
@@ -1017,7 +1017,7 @@ Medium Stores High Loyalty,TOLEDO-OH,Paid Search,Total Sales,overall,weekly,1,18
 Medium Stores High Loyalty,TOPEKA-KS,Paid Search,Total Sales,overall,weekly,1,967.9917412,0.091779361
 Low Stores Medium Loyalty,TRAVERSE CITY-MI,Paid Search,Total Sales,overall,weekly,1,2586.946054,0.034594079
 Low Stores Medium Loyalty,TRI CITIES-TN,Paid Search,Total Sales,overall,weekly,1,1870.535756,0.038341497
-High Stores High Loyalty,TRI-STATE-NY/NJ/CT,Paid Search,Total Sales,overall,weekly,1,1333728.623,5.52679E-05
+High Stores High Loyalty,TRI-STATE-NY/NJ/CT,Paid Search,Total Sales,overall,weekly,1,1333728.623,5.53E-05
 Medium Stores High Loyalty,TUCSON-AZ,Paid Search,Total Sales,overall,weekly,1,6077.813672,0.012934667
 Medium Stores High Loyalty,TULSA-OK,Paid Search,Total Sales,overall,weekly,1,5460.275878,0.013984797
 Low Stores Low Loyalty,TYLER/LONGVIEW-TX,Paid Search,Total Sales,overall,weekly,1,2031.280706,0.040872653
