@@ -15,7 +15,7 @@ if (is.staging){
   username="Zkdz408R6hll"
   password="XH3RoKdopf12L4BJbqXTtD2yESgwL$fGd(juW)ed"
 }
-main.path="d:\\Archives\\Git\\opt-admin\\" # opt files path
+main.path="d:\\Archives\\Git\\opt\\" # opt files path
 season.var=0.05  # from 0 to 1
 
 
