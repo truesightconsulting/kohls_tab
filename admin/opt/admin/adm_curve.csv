@@ -333,7 +333,7 @@ Medium Stores High Loyalty,FORT WAYNE-IN,Display,Total Sales,overall,weekly,1,16
 Medium Stores Low Loyalty,FRESNO/VISALIA-CA,Display,Total Sales,overall,weekly,1,11075.15632,0.00160063
 Low Stores Low Loyalty,GAINESVILLE-FL,Display,Total Sales,overall,weekly,1,2197.566141,0.007609587
 Medium Stores High Loyalty,GRD JCT/MNTS-CO,Display,Total Sales,overall,weekly,1,1916.288278,0.011611869
-Medium Stores High Loyalty,"GRD RPD, KMZ-MI",Display,Total Sales,overall,weekly,1,24200.22359,0.001060755
+Medium Stores High Loyalty,GRD RPD KMZ-MI,Display,Total Sales,overall,weekly,1,24200.22359,0.001060755
 Medium Stores High Loyalty,GREENBAY/APLTN-WI,Display,Total Sales,overall,weekly,1,32352.57746,0.001305223
 Low Stores Medium Loyalty,GREENSBORO-NC,Display,Total Sales,overall,weekly,1,21350.35957,0.001136504
 Low Stores Low Loyalty,GREENVILLE-NC,Display,Total Sales,overall,weekly,1,2871.999495,0.003657762
@@ -528,7 +528,7 @@ Medium Stores High Loyalty,FORT WAYNE-IN,TV Brand,Total Sales,overall,weekly,1,3
 Medium Stores Low Loyalty,FRESNO/VISALIA-CA,TV Brand,Total Sales,overall,weekly,1,45859.18397,0.000569265
 Low Stores Low Loyalty,GAINESVILLE-FL,TV Brand,Total Sales,overall,weekly,1,6265.007543,0.003004232
 Medium Stores High Loyalty,GRD JCT/MNTS-CO,TV Brand,Total Sales,overall,weekly,1,8451.682083,0.004064691
-Medium Stores High Loyalty,"GRD RPD, KMZ-MI",TV Brand,Total Sales,overall,weekly,1,64732.59186,0.000435359
+Medium Stores High Loyalty,GRD RPD KMZ-MI,TV Brand,Total Sales,overall,weekly,1,64732.59186,0.000435359
 Medium Stores High Loyalty,GREENBAY/APLTN-WI,TV Brand,Total Sales,overall,weekly,1,78741.91965,0.000572109
 Low Stores Medium Loyalty,GREENSBORO-NC,TV Brand,Total Sales,overall,weekly,1,34680.23954,0.000535688
 Low Stores Low Loyalty,GREENVILLE-NC,TV Brand,Total Sales,overall,weekly,1,9426.662951,0.001376951
@@ -721,7 +721,7 @@ Medium Stores High Loyalty,FORT WAYNE-IN,TV Event,Total Sales,overall,weekly,1,4
 Medium Stores Low Loyalty,FRESNO/VISALIA-CA,TV Event,Total Sales,overall,weekly,1,45423.4431,0.000531882
 Low Stores Low Loyalty,GAINESVILLE-FL,TV Event,Total Sales,overall,weekly,1,7821.70627,0.002672916
 Medium Stores High Loyalty,GRD JCT/MNTS-CO,TV Event,Total Sales,overall,weekly,1,10882.36248,0.003339657
-Medium Stores High Loyalty,"GRD RPD, KMZ-MI",TV Event,Total Sales,overall,weekly,1,104291.8054,0.000335646
+Medium Stores High Loyalty,GRD RPD KMZ-MI,TV Event,Total Sales,overall,weekly,1,104291.8054,0.000335646
 Medium Stores High Loyalty,GREENBAY/APLTN-WI,TV Event,Total Sales,overall,weekly,1,139086.9672,0.000398288
 Low Stores Medium Loyalty,GREENSBORO-NC,TV Event,Total Sales,overall,weekly,1,47170.22673,0.000463
 Low Stores Low Loyalty,GREENVILLE-NC,TV Event,Total Sales,overall,weekly,1,13030.23758,0.001232484
@@ -914,7 +914,7 @@ Medium Stores High Loyalty,FORT WAYNE-IN,Paid Search,Total Sales,overall,weekly,
 Medium Stores Low Loyalty,FRESNO/VISALIA-CA,Paid Search,Total Sales,overall,weekly,1,13621.40359,0.005190093
 Low Stores Low Loyalty,GAINESVILLE-FL,Paid Search,Total Sales,overall,weekly,1,664.5163129,0.117553512
 Medium Stores High Loyalty,GRD JCT/MNTS-CO,Paid Search,Total Sales,overall,weekly,1,355.2983661,0.241869822
-Medium Stores High Loyalty,"GRD RPD, KMZ-MI",Paid Search,Total Sales,overall,weekly,1,35366.43413,0.002218889
+Medium Stores High Loyalty,GRD RPD KMZ-MI,Paid Search,Total Sales,overall,weekly,1,35366.43413,0.002218889
 Medium Stores High Loyalty,GREENBAY/APLTN-WI,Paid Search,Total Sales,overall,weekly,1,41178.90313,0.002563105
 Low Stores Medium Loyalty,GREENSBORO-NC,Paid Search,Total Sales,overall,weekly,1,13244.36884,0.005180744
 Low Stores Low Loyalty,GREENVILLE-NC,Paid Search,Total Sales,overall,weekly,1,1834.824299,0.03700779
@@ -1107,7 +1107,7 @@ Medium Stores High Loyalty,FORT WAYNE-IN,Radio,Total Sales,overall,weekly,1,7302
 Medium Stores Low Loyalty,FRESNO/VISALIA-CA,Radio,Total Sales,overall,weekly,1,8439.244509,0.003622884
 Low Stores Low Loyalty,GAINESVILLE-FL,Radio,Total Sales,overall,weekly,1,1131.452049,0.019488506
 Medium Stores High Loyalty,GRD JCT/MNTS-CO,Radio,Total Sales,overall,weekly,1,1552.059865,0.02557559
-Medium Stores High Loyalty,"GRD RPD, KMZ-MI",Radio,Total Sales,overall,weekly,1,12066.72251,0.00274983
+Medium Stores High Loyalty,GRD RPD KMZ-MI,Radio,Total Sales,overall,weekly,1,12066.72251,0.00274983
 Medium Stores High Loyalty,GREENBAY/APLTN-WI,Radio,Total Sales,overall,weekly,1,15426.26582,0.003470215
 Low Stores Medium Loyalty,GREENSBORO-NC,Radio,Total Sales,overall,weekly,1,6312.515788,0.003468542
 Low Stores Low Loyalty,GREENVILLE-NC,Radio,Total Sales,overall,weekly,1,7701.420762,0.00562475
