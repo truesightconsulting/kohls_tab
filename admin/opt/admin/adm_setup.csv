@@ -1,10 +1,10 @@
 attribute,value
 update,y
-client_name,Kohls
+client_name,Kohls MMA
 r_path,/home/rstudio/nviz/kohls_tab/
 general_message,"This optimization is exclusive to Tab tactics only.  No other channels have been included.
-The optimization utilizes MMA’s results to create the diminishing curves.  Part of diminishing curves design has been determined using past Ninah’s experience (not explicitly determined through model).
-The clusters for DMAs are based on Loyalty and Store Density Cluster analysis.  This cluster analysis does not have impact on the optimization itself.  It is only used for seeing ROI’s by this particular clusters and ease of using the optimization.  "
+The optimization utilizes MMA?s results to create the diminishing curves.  Part of diminishing curves design has been determined using past Ninah?s experience (not explicitly determined through model).
+The clusters for DMAs are based on Loyalty and Store Density Cluster analysis.  This cluster analysis does not have impact on the optimization itself.  It is only used for seeing ROI?s by this particular clusters and ease of using the optimization.  "
 calendar,1
 pace,200
 goal_check,1
