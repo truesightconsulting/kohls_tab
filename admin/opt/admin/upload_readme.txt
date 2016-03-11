@@ -6,7 +6,7 @@ Cost Per Support template format
 
 Constraint template format
 1, This template needs to use upload_lookup.csv to fill.
-2, The value of each '..._id' column can be multiple items from the same '..._id' column of upload_lookup.csv. If there are multiple items, please ONLY USE COMMA as delimiter. For example, 'TV,Paid Search'.
+2, The value of each '..._id' column can be multiple items from the same '..._id' column of upload_lookup.csv. If there are multiple items, please ONLY USE COMMA as delimiter. For example, 'TV,Paid Search'. For a selection of all possilbe values, please put 'All' (not quotes and case sensitive).
 3, Missing values are not allowed in '..._id' columns.
 4, sp_min or sp_max cannot be less than incremental search pace.
 5, sp_max and sp_min cannot be both missing.
@@ -17,7 +17,7 @@ Constraint template format
 
 Plan template format
 1, This template needs to use upload_lookup.csv to fill.
-2, The value of each '..._id' column can be multiple items from the same '..._id' column of upload_lookup.csv. If there are multiple items, please ONLY USE COMMA as delimiter. For example, 'TV,Paid Search'.
+2, The value of each '..._id' column can be multiple items from the same '..._id' column of upload_lookup.csv. If there are multiple items, please ONLY USE COMMA as delimiter. For example, 'TV,Paid Search'. For a selection of all possilbe values, please put 'All' (not quotes and case sensitive).
 3, Missing values are not allowed in '..._id' columns.
 4, sp_plan cannot be less than incremental search pace.
 5, sp_plan cannot be missing.
@@ -27,7 +27,7 @@ Plan template format
 
 Event template format
 1, This template needs to use upload_lookup.csv to fill.
-2, The value of each '..._id' column can be multiple items from the same '..._id' column of upload_lookup.csv. If there are multiple items, please ONLY USE COMMA as delimiter. For example, 'TV,Paid Search'.
+2, The value of each '..._id' column can be multiple items from the same '..._id' column of upload_lookup.csv. If there are multiple items, please ONLY USE COMMA as delimiter. For example, 'TV,Paid Search'. For a selection of all possilbe values, please put 'All' (not quotes and case sensitive).
 3, Missing values are not allowed in any column.
 4, date_start and date_end format: mm/dd/yyyy.
 5, Missing values are not allowed in date_start and date_end columns.
