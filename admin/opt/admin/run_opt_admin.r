@@ -3,7 +3,7 @@ suppressMessages(suppressWarnings(library(RMySQL)))
 # True generate db version files, F generates flat file version files
 db.usage=T
 # True is to staging DB and F is to production DB
-is.staging=T 
+is.staging=F 
 # DB server info
 db.server="bitnami.cluster-chdidqfrg8na.us-east-1.rds.amazonaws.com"
 db.server="127.0.0.1"
