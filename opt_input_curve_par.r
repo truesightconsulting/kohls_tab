@@ -7,6 +7,17 @@ print("Note: Calculating Curve Parameters")
 # merge clv table
 curve=merge(curve,ex.clv[,c("sales1_id","clv"),with=F],by=c("sales1_id"),all.x=T)
 
+# tweak curve based on time window
+start.optm=as.Date(ex.setup$date_start)
+end.optm=as.Date(ex.setup$date_end)
+date.temp=optm.date(ex.setup$date_start,ex.setup$date_end)
+range.wk.optm=date.temp$range.wk
+out.wk.optm=date.temp$out.wk
+n=length(out.wk.optm)
+ex.setup$input_increment=n*ex.setup$input_increment
+curve$a=n*curve$a
+curve$b=curve$b/n
+
 # # tweak a based on approval
 # curve$a=curve$a*curve$approval
 
