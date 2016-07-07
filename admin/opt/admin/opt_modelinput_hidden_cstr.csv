@@ -197,6 +197,202 @@
 "170_97_353","Medium Stores Low Loyalty","EL PASO-TX","TV Bromo",11,170,97,353,NULL,NULL,NULL
 "170_98_351","Low Stores Medium Loyalty","ELMIRA-NY","TV Bromo",11,170,98,351,NULL,NULL,NULL
 "170_99_352","Medium Stores High Loyalty","ERIE-PA","TV Bromo",11,170,99,352,NULL,NULL,NULL
+"171_100_350","Low Stores Low Loyalty","EUGENE-OR","Search",11,171,100,350,NULL,NULL,NULL
+"171_101_350","Low Stores Low Loyalty","EUREKA-CA","Search",11,171,101,350,NULL,NULL,NULL
+"171_102_351","Low Stores Medium Loyalty","EVANSVILLE-IN","Search",11,171,102,351,NULL,NULL,NULL
+"171_103_352","Medium Stores High Loyalty","FARGO-ND","Search",11,171,103,352,NULL,NULL,NULL
+"171_104_353","Medium Stores Low Loyalty","FAYETTEVL/FT.SM-AR","Search",11,171,104,353,NULL,NULL,NULL
+"171_105_265","Other","FLAGSTAFF-AZ","Search",11,171,105,265,NULL,NULL,NULL
+"171_106_351","Low Stores Medium Loyalty","FLNT/SGNW-BYCT-MI","Search",11,171,106,351,NULL,NULL,NULL
+"171_107_353","Medium Stores Low Loyalty","FLORNCE/MRTL BE-SC","Search",11,171,107,353,NULL,NULL,NULL
+"171_108_351","Low Stores Medium Loyalty","FORT MYRS/NAPLS-FL","Search",11,171,108,351,NULL,NULL,NULL
+"171_109_352","Medium Stores High Loyalty","FORT WAYNE-IN","Search",11,171,109,352,NULL,NULL,NULL
+"171_110_353","Medium Stores Low Loyalty","FRESNO/VISALIA-CA","Search",11,171,110,353,NULL,NULL,NULL
+"171_111_350","Low Stores Low Loyalty","GAINESVILLE-FL","Search",11,171,111,350,NULL,NULL,NULL
+"171_112_352","Medium Stores High Loyalty","GRD JCT/MNTS-CO","Search",11,171,112,352,NULL,NULL,NULL
+"171_113_352","Medium Stores High Loyalty","GRD RPD KMZ-MI","Search",11,171,113,352,NULL,NULL,NULL
+"171_114_352","Medium Stores High Loyalty","GREENBAY/APLTN-WI","Search",11,171,114,352,NULL,NULL,NULL
+"171_115_351","Low Stores Medium Loyalty","GREENSBORO-NC","Search",11,171,115,351,NULL,NULL,NULL
+"171_116_350","Low Stores Low Loyalty","GREENVILLE-NC","Search",11,171,116,350,NULL,NULL,NULL
+"171_117_351","Low Stores Medium Loyalty","GREENVILLE-SC","Search",11,171,117,351,NULL,NULL,NULL
+"171_118_352","Medium Stores High Loyalty","HBG/LANCAST-PA","Search",11,171,118,352,NULL,NULL,NULL
+"171_119_351","Low Stores Medium Loyalty","HARRISONBURG-VA","Search",11,171,119,351,NULL,NULL,NULL
+"171_120_350","Low Stores Low Loyalty","HATTSBURG/LAURL-MS","Search",11,171,120,350,NULL,NULL,NULL
+"171_121_353","Medium Stores Low Loyalty","HOUSTON-TX","Search",11,171,121,353,NULL,NULL,NULL
+"171_122_351","Low Stores Medium Loyalty","HUNTSVILLE-AL","Search",11,171,122,351,NULL,NULL,NULL
+"171_123_353","Medium Stores Low Loyalty","IDHO FLS/POCTLO-ID","Search",11,171,123,353,NULL,NULL,NULL
+"171_124_352","Medium Stores High Loyalty","INDIANAPOLIS-IN","Search",11,171,124,352,NULL,NULL,NULL
+"171_125_350","Low Stores Low Loyalty","JACKSON-MS","Search",11,171,125,350,NULL,NULL,NULL
+"171_126_350","Low Stores Low Loyalty","JACKSON-TN","Search",11,171,126,350,NULL,NULL,NULL
+"171_127_352","Medium Stores High Loyalty","JACKSONVILLE-FL","Search",11,171,127,352,NULL,NULL,NULL
+"171_128_351","Low Stores Medium Loyalty","JOHNSTOWN/ALTNA-PA","Search",11,171,128,351,NULL,NULL,NULL
+"171_129_350","Low Stores Low Loyalty","JONESBORO-AR","Search",11,171,129,350,NULL,NULL,NULL
+"171_130_352","Medium Stores High Loyalty","JOPLIN/PTSBURG-MO","Search",11,171,130,352,NULL,NULL,NULL
+"171_131_353","Medium Stores Low Loyalty","KANSAS CT-KS / MO","Search",11,171,131,353,NULL,NULL,NULL
+"171_132_351","Low Stores Medium Loyalty","KNOXVILLE-TN","Search",11,171,132,351,NULL,NULL,NULL
+"171_133_352","Medium Stores High Loyalty","LA CRSE/EAU CL-WI","Search",11,171,133,352,NULL,NULL,NULL
+"171_134_352","Medium Stores High Loyalty","LAFAYETTE-IN","Search",11,171,134,352,NULL,NULL,NULL
+"171_135_350","Low Stores Low Loyalty","LAFAYETTE-LA","Search",11,171,135,350,NULL,NULL,NULL
+"171_136_350","Low Stores Low Loyalty","LAKE CHARLES-LA","Search",11,171,136,350,NULL,NULL,NULL
+"171_137_352","Medium Stores High Loyalty","LANSING/JACKSON-MI","Search",11,171,137,352,NULL,NULL,NULL
+"171_138_353","Medium Stores Low Loyalty","LAREDO-TX","Search",11,171,138,353,NULL,NULL,NULL
+"171_139_353","Medium Stores Low Loyalty","LAS VEGAS-NV","Search",11,171,139,353,NULL,NULL,NULL
+"171_140_353","Medium Stores Low Loyalty","LEXINGTON-KY","Search",11,171,140,353,NULL,NULL,NULL
+"171_141_351","Low Stores Medium Loyalty","LIMA-OH","Search",11,171,141,351,NULL,NULL,NULL
+"171_142_352","Medium Stores High Loyalty","LINCOLN-NE","Search",11,171,142,352,NULL,NULL,NULL
+"171_143_350","Low Stores Low Loyalty","LITTLE ROCK-AR","Search",11,171,143,350,NULL,NULL,NULL
+"171_144_354","High Stores High Loyalty","LOS ANGELES-CA","Search",11,171,144,354,NULL,NULL,NULL
+"171_145_352","Medium Stores High Loyalty","LOUISVILLE-KY","Search",11,171,145,352,NULL,NULL,NULL
+"171_146_352","Medium Stores High Loyalty","LUBBOCK-TX","Search",11,171,146,352,NULL,NULL,NULL
+"171_147_350","Low Stores Low Loyalty","MACON-GA","Search",11,171,147,350,NULL,NULL,NULL
+"171_148_352","Medium Stores High Loyalty","MADISON-WI","Search",11,171,148,352,NULL,NULL,NULL
+"171_149_352","Medium Stores High Loyalty","MANKATO-MN","Search",11,171,149,352,NULL,NULL,NULL
+"171_150_351","Low Stores Medium Loyalty","MARQUETTE-MI","Search",11,171,150,351,NULL,NULL,NULL
+"171_151_353","Medium Stores Low Loyalty","MCALLEN-TX","Search",11,171,151,353,NULL,NULL,NULL
+"171_152_351","Low Stores Medium Loyalty","MDFRD/KLMATH FA-OR","Search",11,171,152,351,NULL,NULL,NULL
+"171_153_350","Low Stores Low Loyalty","MEMPHIS-TN","Search",11,171,153,350,NULL,NULL,NULL
+"171_154_353","Medium Stores Low Loyalty","MIAMI/FT. LDRDA-FL","Search",11,171,154,353,NULL,NULL,NULL
+"171_155_353","Medium Stores Low Loyalty","MIDLAND-TX","Search",11,171,155,353,NULL,NULL,NULL
+"171_156_352","Medium Stores High Loyalty","MILWAUKEE-WI","Search",11,171,156,352,NULL,NULL,NULL
+"171_157_352","Medium Stores High Loyalty","MINNEAPOLIS-MN","Search",11,171,157,352,NULL,NULL,NULL
+"171_158_352","Medium Stores High Loyalty","MINOT/BISMARCK-ND","Search",11,171,158,352,NULL,NULL,NULL
+"171_159_350","Low Stores Low Loyalty","MBLE/PNSCOLA-AL/FL","Search",11,171,159,350,NULL,NULL,NULL
+"171_160_350","Low Stores Low Loyalty","MONROE/EL DORDO-LA","Search",11,171,160,350,NULL,NULL,NULL
+"171_161_350","Low Stores Low Loyalty","MONTEREY/SALINA-CA","Search",11,171,161,350,NULL,NULL,NULL
+"171_162_350","Low Stores Low Loyalty","MONTGOMERY-AL","Search",11,171,162,350,NULL,NULL,NULL
+"171_163_353","Medium Stores Low Loyalty","NASHVILLE-TN","Search",11,171,163,353,NULL,NULL,NULL
+"171_164_352","Medium Stores High Loyalty","NEW HAVEN/HARTD-CT","Search",11,171,164,352,NULL,NULL,NULL
+"171_165_350","Low Stores Low Loyalty","NEW ORLEANS-LA","Search",11,171,165,350,NULL,NULL,NULL
+"171_166_352","Medium Stores High Loyalty","NORFOLK-VA","Search",11,171,166,352,NULL,NULL,NULL
+"171_167_353","Medium Stores Low Loyalty","OKLAHOMA CITY-OK","Search",11,171,167,353,NULL,NULL,NULL
+"171_168_353","Medium Stores Low Loyalty","OMAHA-NE","Search",11,171,168,353,NULL,NULL,NULL
+"171_169_353","Medium Stores Low Loyalty","ORLNDO/DYTNA/MB-FL","Search",11,171,169,353,NULL,NULL,NULL
+"171_170_351","Low Stores Medium Loyalty","PADUCAH-KY","Search",11,171,170,351,NULL,NULL,NULL
+"171_171_353","Medium Stores Low Loyalty","PALM SPRINGS-CA","Search",11,171,171,353,NULL,NULL,NULL
+"171_172_351","Low Stores Medium Loyalty","PANAMA CITY-FL","Search",11,171,172,351,NULL,NULL,NULL
+"171_173_351","Low Stores Medium Loyalty","PARKERSBURG-WV","Search",11,171,173,351,NULL,NULL,NULL
+"171_174_352","Medium Stores High Loyalty","PEORIA/BLMNGTN-IL","Search",11,171,174,352,NULL,NULL,NULL
+"171_175_352","Medium Stores High Loyalty","PHILADELPHIA-PA","Search",11,171,175,352,NULL,NULL,NULL
+"171_176_353","Medium Stores Low Loyalty","PHOENIX-AZ","Search",11,171,176,353,NULL,NULL,NULL
+"171_177_352","Medium Stores High Loyalty","PITTSBURGH-PA","Search",11,171,177,352,NULL,NULL,NULL
+"171_178_351","Low Stores Medium Loyalty","PORTLAND-ME","Search",11,171,178,351,NULL,NULL,NULL
+"171_179_353","Medium Stores Low Loyalty","PORTLAND-OR","Search",11,171,179,353,NULL,NULL,NULL
+"171_180_352","Medium Stores High Loyalty","PROVIDENCE-RI","Search",11,171,180,352,NULL,NULL,NULL
+"171_181_351","Low Stores Medium Loyalty","QUINCY-IL","Search",11,171,181,351,NULL,NULL,NULL
+"171_182_353","Medium Stores Low Loyalty","RALEIGH-NC","Search",11,171,182,353,NULL,NULL,NULL
+"171_183_352","Medium Stores High Loyalty","RAPID CITY-SD","Search",11,171,183,352,NULL,NULL,NULL
+"171_184_352","Medium Stores High Loyalty","RENO-NV","Search",11,171,184,352,NULL,NULL,NULL
+"171_185_352","Medium Stores High Loyalty","RICHMOND-VA","Search",11,171,185,352,NULL,NULL,NULL
+"171_186_351","Low Stores Medium Loyalty","ROANOKE/LYCHBRG-VA","Search",11,171,186,351,NULL,NULL,NULL
+"171_187_352","Medium Stores High Loyalty","ROCHESTER-MN","Search",11,171,187,352,NULL,NULL,NULL
+"171_188_351","Low Stores Medium Loyalty","ROCHESTER-NY","Search",11,171,188,351,NULL,NULL,NULL
+"171_189_352","Medium Stores High Loyalty","ROCKFORD-IL","Search",11,171,189,352,NULL,NULL,NULL
+"171_190_353","Medium Stores Low Loyalty","SACRAMENTO-CA","Search",11,171,190,353,NULL,NULL,NULL
+"171_191_351","Low Stores Medium Loyalty","SALISBURY-MD","Search",11,171,191,351,NULL,NULL,NULL
+"171_192_353","Medium Stores Low Loyalty","SALT LAKE CITY-UT","Search",11,171,192,353,NULL,NULL,NULL
+"171_193_353","Medium Stores Low Loyalty","SAN ANTONIO-TX","Search",11,171,193,353,NULL,NULL,NULL
+"171_194_353","Medium Stores Low Loyalty","SAN DIEGO-CA","Search",11,171,194,353,NULL,NULL,NULL
+"171_195_353","Medium Stores Low Loyalty","SAN FRANCISCO-CA","Search",11,171,195,353,NULL,NULL,NULL
+"171_196_352","Medium Stores High Loyalty","SANTA BARBARA-CA","Search",11,171,196,352,NULL,NULL,NULL
+"171_197_353","Medium Stores Low Loyalty","SEATTLE-WA","Search",11,171,197,353,NULL,NULL,NULL
+"171_198_350","Low Stores Low Loyalty","SHERMAN/ADA-TX","Search",11,171,198,350,NULL,NULL,NULL
+"171_199_350","Low Stores Low Loyalty","SHREVEPORT-LA","Search",11,171,199,350,NULL,NULL,NULL
+"171_200_352","Medium Stores High Loyalty","SIOUX CITY-IA","Search",11,171,200,352,NULL,NULL,NULL
+"171_201_352","Medium Stores High Loyalty","SIOUX FALLS-SD","Search",11,171,201,352,NULL,NULL,NULL
+"171_202_351","Low Stores Medium Loyalty","SOUTH BEND-IN","Search",11,171,202,351,NULL,NULL,NULL
+"171_203_350","Low Stores Low Loyalty","SPOKANE-WA","Search",11,171,203,350,NULL,NULL,NULL
+"171_204_351","Low Stores Medium Loyalty","SPRINGFIELD-MA","Search",11,171,204,351,NULL,NULL,NULL
+"171_205_352","Medium Stores High Loyalty","SPRINGFIELD-MO","Search",11,171,205,352,NULL,NULL,NULL
+"171_207_350","Low Stores Low Loyalty","ST. JOSEPH-MO","Search",11,171,207,350,NULL,NULL,NULL
+"171_208_352","Medium Stores High Loyalty","ST. LOUIS-MO","Search",11,171,208,352,NULL,NULL,NULL
+"171_209_351","Low Stores Medium Loyalty","SYRACUSE-NY","Search",11,171,209,351,NULL,NULL,NULL
+"171_210_350","Low Stores Low Loyalty","TALLHSSE/THMSVL-FL","Search",11,171,210,350,NULL,NULL,NULL
+"171_211_353","Medium Stores Low Loyalty","TMPA/ST.PT/LKLD-FL","Search",11,171,211,353,NULL,NULL,NULL
+"171_212_351","Low Stores Medium Loyalty","TERRE HAUTE-IN","Search",11,171,212,351,NULL,NULL,NULL
+"171_214_352","Medium Stores High Loyalty","TOLEDO-OH","Search",11,171,214,352,NULL,NULL,NULL
+"171_215_352","Medium Stores High Loyalty","TOPEKA-KS","Search",11,171,215,352,NULL,NULL,NULL
+"171_216_351","Low Stores Medium Loyalty","TRAVERSE CITY-MI","Search",11,171,216,351,NULL,NULL,NULL
+"171_217_351","Low Stores Medium Loyalty","TRI CITIES-TN","Search",11,171,217,351,NULL,NULL,NULL
+"171_218_354","High Stores High Loyalty","TRI-STATE-NY/NJ/CT","Search",11,171,218,354,NULL,NULL,NULL
+"171_219_352","Medium Stores High Loyalty","TUCSON-AZ","Search",11,171,219,352,NULL,NULL,NULL
+"171_220_352","Medium Stores High Loyalty","TULSA-OK","Search",11,171,220,352,NULL,NULL,NULL
+"171_221_350","Low Stores Low Loyalty","TYLER/LONGVIEW-TX","Search",11,171,221,350,NULL,NULL,NULL
+"171_222_352","Medium Stores High Loyalty","UTICA-NY","Search",11,171,222,352,NULL,NULL,NULL
+"171_223_350","Low Stores Low Loyalty","VICTORIA-TX","Search",11,171,223,350,NULL,NULL,NULL
+"171_224_353","Medium Stores Low Loyalty","WACO/TMPL/BRYAN-TX","Search",11,171,224,353,NULL,NULL,NULL
+"171_225_352","Medium Stores High Loyalty","WASHINGTON D.C.","Search",11,171,225,352,NULL,NULL,NULL
+"171_226_352","Medium Stores High Loyalty","WATERTOWN-NY","Search",11,171,226,352,NULL,NULL,NULL
+"171_227_351","Low Stores Medium Loyalty","WAUSAU-WI","Search",11,171,227,351,NULL,NULL,NULL
+"171_228_351","Low Stores Medium Loyalty","WEST PALM BEACH-FL","Search",11,171,228,351,NULL,NULL,NULL
+"171_229_351","Low Stores Medium Loyalty","WHEELING-WV","Search",11,171,229,351,NULL,NULL,NULL
+"171_230_352","Medium Stores High Loyalty","WICHITA-KS","Search",11,171,230,352,NULL,NULL,NULL
+"171_231_351","Low Stores Medium Loyalty","WILKES-BARRE-PA","Search",11,171,231,351,NULL,NULL,NULL
+"171_232_352","Medium Stores High Loyalty","WILMINGTON-NC","Search",11,171,232,352,NULL,NULL,NULL
+"171_233_350","Low Stores Low Loyalty","YAKIMA-WA","Search",11,171,233,350,NULL,NULL,NULL
+"171_234_352","Medium Stores High Loyalty","YOUNGSTOWN-OH","Search",11,171,234,352,NULL,NULL,NULL
+"171_235_350","Low Stores Low Loyalty","YUMA-AZ","Search",11,171,235,350,NULL,NULL,NULL
+"171_236_351","Low Stores Medium Loyalty","ZANESVILLE-OH","Search",11,171,236,351,NULL,NULL,NULL
+"171_237_265","Other","LAWTON-TX","Search",11,171,237,265,NULL,NULL,NULL
+"171_238_265","Other","SAVANNAH-GA","Search",11,171,238,265,NULL,NULL,NULL
+"171_239_265","Other","KIRKSVILLE-IA","Search",11,171,239,265,NULL,NULL,NULL
+"171_42_350","Low Stores Low Loyalty","ABILENE-TX","Search",11,171,42,350,NULL,NULL,NULL
+"171_43_350","Low Stores Low Loyalty","ALBANY-GA","Search",11,171,43,350,NULL,NULL,NULL
+"171_44_351","Low Stores Medium Loyalty","ALBANY-NY","Search",11,171,44,351,NULL,NULL,NULL
+"171_45_352","Medium Stores High Loyalty","ALBQ/SANTA FE-NM","Search",11,171,45,352,NULL,NULL,NULL
+"171_46_353","Medium Stores Low Loyalty","AMARILLO-TX","Search",11,171,46,353,NULL,NULL,NULL
+"171_47_352","Medium Stores High Loyalty","ANCHORAGE-AK","Search",11,171,47,352,NULL,NULL,NULL
+"171_48_353","Medium Stores Low Loyalty","ATLANTA-GA","Search",11,171,48,353,NULL,NULL,NULL
+"171_49_352","Medium Stores High Loyalty","AUGUSTA-GA","Search",11,171,49,352,NULL,NULL,NULL
+"171_50_353","Medium Stores Low Loyalty","AUSTIN-TX","Search",11,171,50,353,NULL,NULL,NULL
+"171_51_352","Medium Stores High Loyalty","BAKERSFIELD-CA","Search",11,171,51,352,NULL,NULL,NULL
+"171_52_352","Medium Stores High Loyalty","BALTIMORE-MD","Search",11,171,52,352,NULL,NULL,NULL
+"171_53_351","Low Stores Medium Loyalty","BANGOR-ME","Search",11,171,53,351,NULL,NULL,NULL
+"171_54_350","Low Stores Low Loyalty","BATON ROUGE-LA","Search",11,171,54,350,NULL,NULL,NULL
+"171_55_350","Low Stores Low Loyalty","BEAUMT/PORT ART-TX","Search",11,171,55,350,NULL,NULL,NULL
+"171_56_350","Low Stores Low Loyalty","BEND-OR","Search",11,171,56,350,NULL,NULL,NULL
+"171_57_352","Medium Stores High Loyalty","BILLINGS-MT","Search",11,171,57,352,NULL,NULL,NULL
+"171_58_350","Low Stores Low Loyalty","BILOXI/GULFPORT-MS","Search",11,171,58,350,NULL,NULL,NULL
+"171_59_352","Medium Stores High Loyalty","BINGHAMTON-NY","Search",11,171,59,352,NULL,NULL,NULL
+"171_60_350","Low Stores Low Loyalty","BIRMINGHAM-AL","Search",11,171,60,350,NULL,NULL,NULL
+"171_61_351","Low Stores Medium Loyalty","BLUEFIELD-WV","Search",11,171,61,351,NULL,NULL,NULL
+"171_62_353","Medium Stores Low Loyalty","BOISE-ID","Search",11,171,62,353,NULL,NULL,NULL
+"171_63_352","Medium Stores High Loyalty","BOSTON-MA","Search",11,171,63,352,NULL,NULL,NULL
+"171_64_352","Medium Stores High Loyalty","BOWLING GREEN-KY","Search",11,171,64,352,NULL,NULL,NULL
+"171_65_352","Medium Stores High Loyalty","BUFFALO-NY","Search",11,171,65,352,NULL,NULL,NULL
+"171_66_351","Low Stores Medium Loyalty","BRLGTN-PLATTSBG-VT","Search",11,171,66,351,NULL,NULL,NULL
+"171_67_350","Low Stores Low Loyalty","BUTTE/BOZEMAN-MT","Search",11,171,67,350,NULL,NULL,NULL
+"171_68_350","Low Stores Low Loyalty","CASPER/RIVERTON-WY","Search",11,171,68,350,NULL,NULL,NULL
+"171_69_352","Medium Stores High Loyalty","CEDAR RAPIDS-IA","Search",11,171,69,352,NULL,NULL,NULL
+"171_70_352","Medium Stores High Loyalty","CHMPGN/SPRINFD-IL","Search",11,171,70,352,NULL,NULL,NULL
+"171_71_351","Low Stores Medium Loyalty","CHRLSTN/HNTNGTN-WV","Search",11,171,71,351,NULL,NULL,NULL
+"171_72_350","Low Stores Low Loyalty","CHARLESTON-SC","Search",11,171,72,350,NULL,NULL,NULL
+"171_73_353","Medium Stores Low Loyalty","CHARLOTTE-NC","Search",11,171,73,353,NULL,NULL,NULL
+"171_74_350","Low Stores Low Loyalty","CHARLOTTESVILLE","Search",11,171,74,350,NULL,NULL,NULL
+"171_75_350","Low Stores Low Loyalty","CHATTANOOGA-TN","Search",11,171,75,350,NULL,NULL,NULL
+"171_76_350","Low Stores Low Loyalty","CHEYENNE- WY","Search",11,171,76,350,NULL,NULL,NULL
+"171_77_354","High Stores High Loyalty","CHICAGO-IL","Search",11,171,77,354,NULL,NULL,NULL
+"171_78_352","Medium Stores High Loyalty","CHICO/REDDING-CA","Search",11,171,78,352,NULL,NULL,NULL
+"171_79_352","Medium Stores High Loyalty","CINCINNATI-OH","Search",11,171,79,352,NULL,NULL,NULL
+"171_80_351","Low Stores Medium Loyalty","CLARKSBURG-WV","Search",11,171,80,351,NULL,NULL,NULL
+"171_81_352","Medium Stores High Loyalty","CLEVELAND-OH","Search",11,171,81,352,NULL,NULL,NULL
+"171_82_352","Medium Stores High Loyalty","COLORADO SPRNGS-CO","Search",11,171,82,352,NULL,NULL,NULL
+"171_83_352","Medium Stores High Loyalty","COLMBA/JEFFRSON-MO","Search",11,171,83,352,NULL,NULL,NULL
+"171_84_352","Medium Stores High Loyalty","COLUMBIA-SC","Search",11,171,84,352,NULL,NULL,NULL
+"171_85_350","Low Stores Low Loyalty","COLMBS/TPLO/WPT-MS","Search",11,171,85,350,NULL,NULL,NULL
+"171_86_350","Low Stores Low Loyalty","COLUMBUS-GA","Search",11,171,86,350,NULL,NULL,NULL
+"171_87_352","Medium Stores High Loyalty","COLUMBUS-OH","Search",11,171,87,352,NULL,NULL,NULL
+"171_88_352","Medium Stores High Loyalty","CORPUS CHRISTI-TX","Search",11,171,88,352,NULL,NULL,NULL
+"171_89_353","Medium Stores Low Loyalty","DALLAS-TX","Search",11,171,89,353,NULL,NULL,NULL
+"171_90_351","Low Stores Medium Loyalty","DAVENPORT-IA","Search",11,171,90,351,NULL,NULL,NULL
+"171_91_352","Medium Stores High Loyalty","DAYTON-OH","Search",11,171,91,352,NULL,NULL,NULL
+"171_92_352","Medium Stores High Loyalty","DENVER-CO","Search",11,171,92,352,NULL,NULL,NULL
+"171_93_353","Medium Stores Low Loyalty","DES MOINES-IA","Search",11,171,93,353,NULL,NULL,NULL
+"171_94_352","Medium Stores High Loyalty","DETROIT-MI","Search",11,171,94,352,NULL,NULL,NULL
+"171_95_350","Low Stores Low Loyalty","DOTHAN-AL","Search",11,171,95,350,NULL,NULL,NULL
+"171_96_352","Medium Stores High Loyalty","DULUTH-MN","Search",11,171,96,352,NULL,NULL,NULL
+"171_97_353","Medium Stores Low Loyalty","EL PASO-TX","Search",11,171,97,353,NULL,NULL,NULL
+"171_98_351","Low Stores Medium Loyalty","ELMIRA-NY","Search",11,171,98,351,NULL,NULL,NULL
+"171_99_352","Medium Stores High Loyalty","ERIE-PA","Search",11,171,99,352,NULL,NULL,NULL
 "30_100_350","Low Stores Low Loyalty","EUGENE-OR","Radio",11,30,100,350,NULL,NULL,NULL
 "30_101_350","Low Stores Low Loyalty","EUREKA-CA","Radio",11,30,101,350,NULL,NULL,NULL
 "30_102_351","Low Stores Medium Loyalty","EVANSVILLE-IN","Radio",11,30,102,351,NULL,NULL,NULL
@@ -395,204 +591,6 @@
 "30_97_353","Medium Stores Low Loyalty","EL PASO-TX","Radio",11,30,97,353,NULL,NULL,NULL
 "30_98_351","Low Stores Medium Loyalty","ELMIRA-NY","Radio",11,30,98,351,NULL,NULL,NULL
 "30_99_352","Medium Stores High Loyalty","ERIE-PA","Radio",11,30,99,352,NULL,NULL,NULL
-"73_100_350","Low Stores Low Loyalty","EUGENE-OR","Paid Search",11,73,100,350,NULL,NULL,NULL
-"73_101_350","Low Stores Low Loyalty","EUREKA-CA","Paid Search",11,73,101,350,NULL,NULL,NULL
-"73_102_351","Low Stores Medium Loyalty","EVANSVILLE-IN","Paid Search",11,73,102,351,NULL,NULL,NULL
-"73_103_352","Medium Stores High Loyalty","FARGO-ND","Paid Search",11,73,103,352,NULL,NULL,NULL
-"73_104_353","Medium Stores Low Loyalty","FAYETTEVL/FT.SM-AR","Paid Search",11,73,104,353,NULL,NULL,NULL
-"73_105_265","Other","FLAGSTAFF-AZ","Paid Search",11,73,105,265,NULL,NULL,NULL
-"73_106_351","Low Stores Medium Loyalty","FLNT/SGNW-BYCT-MI","Paid Search",11,73,106,351,NULL,NULL,NULL
-"73_107_353","Medium Stores Low Loyalty","FLORNCE/MRTL BE-SC","Paid Search",11,73,107,353,NULL,NULL,NULL
-"73_108_351","Low Stores Medium Loyalty","FORT MYRS/NAPLS-FL","Paid Search",11,73,108,351,NULL,NULL,NULL
-"73_109_352","Medium Stores High Loyalty","FORT WAYNE-IN","Paid Search",11,73,109,352,NULL,NULL,NULL
-"73_110_353","Medium Stores Low Loyalty","FRESNO/VISALIA-CA","Paid Search",11,73,110,353,NULL,NULL,NULL
-"73_111_350","Low Stores Low Loyalty","GAINESVILLE-FL","Paid Search",11,73,111,350,NULL,NULL,NULL
-"73_112_352","Medium Stores High Loyalty","GRD JCT/MNTS-CO","Paid Search",11,73,112,352,NULL,NULL,NULL
-"73_113_352","Medium Stores High Loyalty","GRD RPD KMZ-MI","Paid Search",11,73,113,352,NULL,NULL,NULL
-"73_114_352","Medium Stores High Loyalty","GREENBAY/APLTN-WI","Paid Search",11,73,114,352,NULL,NULL,NULL
-"73_115_351","Low Stores Medium Loyalty","GREENSBORO-NC","Paid Search",11,73,115,351,NULL,NULL,NULL
-"73_116_350","Low Stores Low Loyalty","GREENVILLE-NC","Paid Search",11,73,116,350,NULL,NULL,NULL
-"73_117_351","Low Stores Medium Loyalty","GREENVILLE-SC","Paid Search",11,73,117,351,NULL,NULL,NULL
-"73_118_352","Medium Stores High Loyalty","HBG/LANCAST-PA","Paid Search",11,73,118,352,NULL,NULL,NULL
-"73_119_351","Low Stores Medium Loyalty","HARRISONBURG-VA","Paid Search",11,73,119,351,NULL,NULL,NULL
-"73_120_350","Low Stores Low Loyalty","HATTSBURG/LAURL-MS","Paid Search",11,73,120,350,NULL,NULL,NULL
-"73_121_353","Medium Stores Low Loyalty","HOUSTON-TX","Paid Search",11,73,121,353,NULL,NULL,NULL
-"73_122_351","Low Stores Medium Loyalty","HUNTSVILLE-AL","Paid Search",11,73,122,351,NULL,NULL,NULL
-"73_123_353","Medium Stores Low Loyalty","IDHO FLS/POCTLO-ID","Paid Search",11,73,123,353,NULL,NULL,NULL
-"73_124_352","Medium Stores High Loyalty","INDIANAPOLIS-IN","Paid Search",11,73,124,352,NULL,NULL,NULL
-"73_125_350","Low Stores Low Loyalty","JACKSON-MS","Paid Search",11,73,125,350,NULL,NULL,NULL
-"73_126_350","Low Stores Low Loyalty","JACKSON-TN","Paid Search",11,73,126,350,NULL,NULL,NULL
-"73_127_352","Medium Stores High Loyalty","JACKSONVILLE-FL","Paid Search",11,73,127,352,NULL,NULL,NULL
-"73_128_351","Low Stores Medium Loyalty","JOHNSTOWN/ALTNA-PA","Paid Search",11,73,128,351,NULL,NULL,NULL
-"73_129_350","Low Stores Low Loyalty","JONESBORO-AR","Paid Search",11,73,129,350,NULL,NULL,NULL
-"73_130_352","Medium Stores High Loyalty","JOPLIN/PTSBURG-MO","Paid Search",11,73,130,352,NULL,NULL,NULL
-"73_131_353","Medium Stores Low Loyalty","KANSAS CT-KS / MO","Paid Search",11,73,131,353,NULL,NULL,NULL
-"73_132_351","Low Stores Medium Loyalty","KNOXVILLE-TN","Paid Search",11,73,132,351,NULL,NULL,NULL
-"73_133_352","Medium Stores High Loyalty","LA CRSE/EAU CL-WI","Paid Search",11,73,133,352,NULL,NULL,NULL
-"73_134_352","Medium Stores High Loyalty","LAFAYETTE-IN","Paid Search",11,73,134,352,NULL,NULL,NULL
-"73_135_350","Low Stores Low Loyalty","LAFAYETTE-LA","Paid Search",11,73,135,350,NULL,NULL,NULL
-"73_136_350","Low Stores Low Loyalty","LAKE CHARLES-LA","Paid Search",11,73,136,350,NULL,NULL,NULL
-"73_137_352","Medium Stores High Loyalty","LANSING/JACKSON-MI","Paid Search",11,73,137,352,NULL,NULL,NULL
-"73_138_353","Medium Stores Low Loyalty","LAREDO-TX","Paid Search",11,73,138,353,NULL,NULL,NULL
-"73_139_353","Medium Stores Low Loyalty","LAS VEGAS-NV","Paid Search",11,73,139,353,NULL,NULL,NULL
-"73_140_353","Medium Stores Low Loyalty","LEXINGTON-KY","Paid Search",11,73,140,353,NULL,NULL,NULL
-"73_141_351","Low Stores Medium Loyalty","LIMA-OH","Paid Search",11,73,141,351,NULL,NULL,NULL
-"73_142_352","Medium Stores High Loyalty","LINCOLN-NE","Paid Search",11,73,142,352,NULL,NULL,NULL
-"73_143_350","Low Stores Low Loyalty","LITTLE ROCK-AR","Paid Search",11,73,143,350,NULL,NULL,NULL
-"73_144_354","High Stores High Loyalty","LOS ANGELES-CA","Paid Search",11,73,144,354,NULL,NULL,NULL
-"73_145_352","Medium Stores High Loyalty","LOUISVILLE-KY","Paid Search",11,73,145,352,NULL,NULL,NULL
-"73_146_352","Medium Stores High Loyalty","LUBBOCK-TX","Paid Search",11,73,146,352,NULL,NULL,NULL
-"73_147_350","Low Stores Low Loyalty","MACON-GA","Paid Search",11,73,147,350,NULL,NULL,NULL
-"73_148_352","Medium Stores High Loyalty","MADISON-WI","Paid Search",11,73,148,352,NULL,NULL,NULL
-"73_149_352","Medium Stores High Loyalty","MANKATO-MN","Paid Search",11,73,149,352,NULL,NULL,NULL
-"73_150_351","Low Stores Medium Loyalty","MARQUETTE-MI","Paid Search",11,73,150,351,NULL,NULL,NULL
-"73_151_353","Medium Stores Low Loyalty","MCALLEN-TX","Paid Search",11,73,151,353,NULL,NULL,NULL
-"73_152_351","Low Stores Medium Loyalty","MDFRD/KLMATH FA-OR","Paid Search",11,73,152,351,NULL,NULL,NULL
-"73_153_350","Low Stores Low Loyalty","MEMPHIS-TN","Paid Search",11,73,153,350,NULL,NULL,NULL
-"73_154_353","Medium Stores Low Loyalty","MIAMI/FT. LDRDA-FL","Paid Search",11,73,154,353,NULL,NULL,NULL
-"73_155_353","Medium Stores Low Loyalty","MIDLAND-TX","Paid Search",11,73,155,353,NULL,NULL,NULL
-"73_156_352","Medium Stores High Loyalty","MILWAUKEE-WI","Paid Search",11,73,156,352,NULL,NULL,NULL
-"73_157_352","Medium Stores High Loyalty","MINNEAPOLIS-MN","Paid Search",11,73,157,352,NULL,NULL,NULL
-"73_158_352","Medium Stores High Loyalty","MINOT/BISMARCK-ND","Paid Search",11,73,158,352,NULL,NULL,NULL
-"73_159_350","Low Stores Low Loyalty","MBLE/PNSCOLA-AL/FL","Paid Search",11,73,159,350,NULL,NULL,NULL
-"73_160_350","Low Stores Low Loyalty","MONROE/EL DORDO-LA","Paid Search",11,73,160,350,NULL,NULL,NULL
-"73_161_350","Low Stores Low Loyalty","MONTEREY/SALINA-CA","Paid Search",11,73,161,350,NULL,NULL,NULL
-"73_162_350","Low Stores Low Loyalty","MONTGOMERY-AL","Paid Search",11,73,162,350,NULL,NULL,NULL
-"73_163_353","Medium Stores Low Loyalty","NASHVILLE-TN","Paid Search",11,73,163,353,NULL,NULL,NULL
-"73_164_352","Medium Stores High Loyalty","NEW HAVEN/HARTD-CT","Paid Search",11,73,164,352,NULL,NULL,NULL
-"73_165_350","Low Stores Low Loyalty","NEW ORLEANS-LA","Paid Search",11,73,165,350,NULL,NULL,NULL
-"73_166_352","Medium Stores High Loyalty","NORFOLK-VA","Paid Search",11,73,166,352,NULL,NULL,NULL
-"73_167_353","Medium Stores Low Loyalty","OKLAHOMA CITY-OK","Paid Search",11,73,167,353,NULL,NULL,NULL
-"73_168_353","Medium Stores Low Loyalty","OMAHA-NE","Paid Search",11,73,168,353,NULL,NULL,NULL
-"73_169_353","Medium Stores Low Loyalty","ORLNDO/DYTNA/MB-FL","Paid Search",11,73,169,353,NULL,NULL,NULL
-"73_170_351","Low Stores Medium Loyalty","PADUCAH-KY","Paid Search",11,73,170,351,NULL,NULL,NULL
-"73_171_353","Medium Stores Low Loyalty","PALM SPRINGS-CA","Paid Search",11,73,171,353,NULL,NULL,NULL
-"73_172_351","Low Stores Medium Loyalty","PANAMA CITY-FL","Paid Search",11,73,172,351,NULL,NULL,NULL
-"73_173_351","Low Stores Medium Loyalty","PARKERSBURG-WV","Paid Search",11,73,173,351,NULL,NULL,NULL
-"73_174_352","Medium Stores High Loyalty","PEORIA/BLMNGTN-IL","Paid Search",11,73,174,352,NULL,NULL,NULL
-"73_175_352","Medium Stores High Loyalty","PHILADELPHIA-PA","Paid Search",11,73,175,352,NULL,NULL,NULL
-"73_176_353","Medium Stores Low Loyalty","PHOENIX-AZ","Paid Search",11,73,176,353,NULL,NULL,NULL
-"73_177_352","Medium Stores High Loyalty","PITTSBURGH-PA","Paid Search",11,73,177,352,NULL,NULL,NULL
-"73_178_351","Low Stores Medium Loyalty","PORTLAND-ME","Paid Search",11,73,178,351,NULL,NULL,NULL
-"73_179_353","Medium Stores Low Loyalty","PORTLAND-OR","Paid Search",11,73,179,353,NULL,NULL,NULL
-"73_180_352","Medium Stores High Loyalty","PROVIDENCE-RI","Paid Search",11,73,180,352,NULL,NULL,NULL
-"73_181_351","Low Stores Medium Loyalty","QUINCY-IL","Paid Search",11,73,181,351,NULL,NULL,NULL
-"73_182_353","Medium Stores Low Loyalty","RALEIGH-NC","Paid Search",11,73,182,353,NULL,NULL,NULL
-"73_183_352","Medium Stores High Loyalty","RAPID CITY-SD","Paid Search",11,73,183,352,NULL,NULL,NULL
-"73_184_352","Medium Stores High Loyalty","RENO-NV","Paid Search",11,73,184,352,NULL,NULL,NULL
-"73_185_352","Medium Stores High Loyalty","RICHMOND-VA","Paid Search",11,73,185,352,NULL,NULL,NULL
-"73_186_351","Low Stores Medium Loyalty","ROANOKE/LYCHBRG-VA","Paid Search",11,73,186,351,NULL,NULL,NULL
-"73_187_352","Medium Stores High Loyalty","ROCHESTER-MN","Paid Search",11,73,187,352,NULL,NULL,NULL
-"73_188_351","Low Stores Medium Loyalty","ROCHESTER-NY","Paid Search",11,73,188,351,NULL,NULL,NULL
-"73_189_352","Medium Stores High Loyalty","ROCKFORD-IL","Paid Search",11,73,189,352,NULL,NULL,NULL
-"73_190_353","Medium Stores Low Loyalty","SACRAMENTO-CA","Paid Search",11,73,190,353,NULL,NULL,NULL
-"73_191_351","Low Stores Medium Loyalty","SALISBURY-MD","Paid Search",11,73,191,351,NULL,NULL,NULL
-"73_192_353","Medium Stores Low Loyalty","SALT LAKE CITY-UT","Paid Search",11,73,192,353,NULL,NULL,NULL
-"73_193_353","Medium Stores Low Loyalty","SAN ANTONIO-TX","Paid Search",11,73,193,353,NULL,NULL,NULL
-"73_194_353","Medium Stores Low Loyalty","SAN DIEGO-CA","Paid Search",11,73,194,353,NULL,NULL,NULL
-"73_195_353","Medium Stores Low Loyalty","SAN FRANCISCO-CA","Paid Search",11,73,195,353,NULL,NULL,NULL
-"73_196_352","Medium Stores High Loyalty","SANTA BARBARA-CA","Paid Search",11,73,196,352,NULL,NULL,NULL
-"73_197_353","Medium Stores Low Loyalty","SEATTLE-WA","Paid Search",11,73,197,353,NULL,NULL,NULL
-"73_198_350","Low Stores Low Loyalty","SHERMAN/ADA-TX","Paid Search",11,73,198,350,NULL,NULL,NULL
-"73_199_350","Low Stores Low Loyalty","SHREVEPORT-LA","Paid Search",11,73,199,350,NULL,NULL,NULL
-"73_200_352","Medium Stores High Loyalty","SIOUX CITY-IA","Paid Search",11,73,200,352,NULL,NULL,NULL
-"73_201_352","Medium Stores High Loyalty","SIOUX FALLS-SD","Paid Search",11,73,201,352,NULL,NULL,NULL
-"73_202_351","Low Stores Medium Loyalty","SOUTH BEND-IN","Paid Search",11,73,202,351,NULL,NULL,NULL
-"73_203_350","Low Stores Low Loyalty","SPOKANE-WA","Paid Search",11,73,203,350,NULL,NULL,NULL
-"73_204_351","Low Stores Medium Loyalty","SPRINGFIELD-MA","Paid Search",11,73,204,351,NULL,NULL,NULL
-"73_205_352","Medium Stores High Loyalty","SPRINGFIELD-MO","Paid Search",11,73,205,352,NULL,NULL,NULL
-"73_206_265","Other","ST. GEORGE-UT","Paid Search",11,73,206,265,NULL,NULL,NULL
-"73_207_350","Low Stores Low Loyalty","ST. JOSEPH-MO","Paid Search",11,73,207,350,NULL,NULL,NULL
-"73_208_352","Medium Stores High Loyalty","ST. LOUIS-MO","Paid Search",11,73,208,352,NULL,NULL,NULL
-"73_209_351","Low Stores Medium Loyalty","SYRACUSE-NY","Paid Search",11,73,209,351,NULL,NULL,NULL
-"73_210_350","Low Stores Low Loyalty","TALLHSSE/THMSVL-FL","Paid Search",11,73,210,350,NULL,NULL,NULL
-"73_211_353","Medium Stores Low Loyalty","TMPA/ST.PT/LKLD-FL","Paid Search",11,73,211,353,NULL,NULL,NULL
-"73_212_351","Low Stores Medium Loyalty","TERRE HAUTE-IN","Paid Search",11,73,212,351,NULL,NULL,NULL
-"73_213_265","Other","TEXARKANA-TX","Paid Search",11,73,213,265,NULL,NULL,NULL
-"73_214_352","Medium Stores High Loyalty","TOLEDO-OH","Paid Search",11,73,214,352,NULL,NULL,NULL
-"73_215_352","Medium Stores High Loyalty","TOPEKA-KS","Paid Search",11,73,215,352,NULL,NULL,NULL
-"73_216_351","Low Stores Medium Loyalty","TRAVERSE CITY-MI","Paid Search",11,73,216,351,NULL,NULL,NULL
-"73_217_351","Low Stores Medium Loyalty","TRI CITIES-TN","Paid Search",11,73,217,351,NULL,NULL,NULL
-"73_218_354","High Stores High Loyalty","TRI-STATE-NY/NJ/CT","Paid Search",11,73,218,354,NULL,NULL,NULL
-"73_219_352","Medium Stores High Loyalty","TUCSON-AZ","Paid Search",11,73,219,352,NULL,NULL,NULL
-"73_220_352","Medium Stores High Loyalty","TULSA-OK","Paid Search",11,73,220,352,NULL,NULL,NULL
-"73_221_350","Low Stores Low Loyalty","TYLER/LONGVIEW-TX","Paid Search",11,73,221,350,NULL,NULL,NULL
-"73_222_352","Medium Stores High Loyalty","UTICA-NY","Paid Search",11,73,222,352,NULL,NULL,NULL
-"73_223_350","Low Stores Low Loyalty","VICTORIA-TX","Paid Search",11,73,223,350,NULL,NULL,NULL
-"73_224_353","Medium Stores Low Loyalty","WACO/TMPL/BRYAN-TX","Paid Search",11,73,224,353,NULL,NULL,NULL
-"73_225_352","Medium Stores High Loyalty","WASHINGTON D.C.","Paid Search",11,73,225,352,NULL,NULL,NULL
-"73_226_352","Medium Stores High Loyalty","WATERTOWN-NY","Paid Search",11,73,226,352,NULL,NULL,NULL
-"73_227_351","Low Stores Medium Loyalty","WAUSAU-WI","Paid Search",11,73,227,351,NULL,NULL,NULL
-"73_228_351","Low Stores Medium Loyalty","WEST PALM BEACH-FL","Paid Search",11,73,228,351,NULL,NULL,NULL
-"73_229_351","Low Stores Medium Loyalty","WHEELING-WV","Paid Search",11,73,229,351,NULL,NULL,NULL
-"73_230_352","Medium Stores High Loyalty","WICHITA-KS","Paid Search",11,73,230,352,NULL,NULL,NULL
-"73_231_351","Low Stores Medium Loyalty","WILKES-BARRE-PA","Paid Search",11,73,231,351,NULL,NULL,NULL
-"73_232_352","Medium Stores High Loyalty","WILMINGTON-NC","Paid Search",11,73,232,352,NULL,NULL,NULL
-"73_233_350","Low Stores Low Loyalty","YAKIMA-WA","Paid Search",11,73,233,350,NULL,NULL,NULL
-"73_234_352","Medium Stores High Loyalty","YOUNGSTOWN-OH","Paid Search",11,73,234,352,NULL,NULL,NULL
-"73_235_350","Low Stores Low Loyalty","YUMA-AZ","Paid Search",11,73,235,350,NULL,NULL,NULL
-"73_236_351","Low Stores Medium Loyalty","ZANESVILLE-OH","Paid Search",11,73,236,351,NULL,NULL,NULL
-"73_237_265","Other","LAWTON-TX","Paid Search",11,73,237,265,NULL,NULL,NULL
-"73_238_265","Other","SAVANNAH-GA","Paid Search",11,73,238,265,NULL,NULL,NULL
-"73_239_265","Other","KIRKSVILLE-IA","Paid Search",11,73,239,265,NULL,NULL,NULL
-"73_42_350","Low Stores Low Loyalty","ABILENE-TX","Paid Search",11,73,42,350,NULL,NULL,NULL
-"73_43_350","Low Stores Low Loyalty","ALBANY-GA","Paid Search",11,73,43,350,NULL,NULL,NULL
-"73_44_351","Low Stores Medium Loyalty","ALBANY-NY","Paid Search",11,73,44,351,NULL,NULL,NULL
-"73_45_352","Medium Stores High Loyalty","ALBQ/SANTA FE-NM","Paid Search",11,73,45,352,NULL,NULL,NULL
-"73_46_353","Medium Stores Low Loyalty","AMARILLO-TX","Paid Search",11,73,46,353,NULL,NULL,NULL
-"73_47_352","Medium Stores High Loyalty","ANCHORAGE-AK","Paid Search",11,73,47,352,NULL,NULL,NULL
-"73_48_353","Medium Stores Low Loyalty","ATLANTA-GA","Paid Search",11,73,48,353,NULL,NULL,NULL
-"73_49_352","Medium Stores High Loyalty","AUGUSTA-GA","Paid Search",11,73,49,352,NULL,NULL,NULL
-"73_50_353","Medium Stores Low Loyalty","AUSTIN-TX","Paid Search",11,73,50,353,NULL,NULL,NULL
-"73_51_352","Medium Stores High Loyalty","BAKERSFIELD-CA","Paid Search",11,73,51,352,NULL,NULL,NULL
-"73_52_352","Medium Stores High Loyalty","BALTIMORE-MD","Paid Search",11,73,52,352,NULL,NULL,NULL
-"73_53_351","Low Stores Medium Loyalty","BANGOR-ME","Paid Search",11,73,53,351,NULL,NULL,NULL
-"73_54_350","Low Stores Low Loyalty","BATON ROUGE-LA","Paid Search",11,73,54,350,NULL,NULL,NULL
-"73_55_350","Low Stores Low Loyalty","BEAUMT/PORT ART-TX","Paid Search",11,73,55,350,NULL,NULL,NULL
-"73_56_350","Low Stores Low Loyalty","BEND-OR","Paid Search",11,73,56,350,NULL,NULL,NULL
-"73_57_352","Medium Stores High Loyalty","BILLINGS-MT","Paid Search",11,73,57,352,NULL,NULL,NULL
-"73_58_350","Low Stores Low Loyalty","BILOXI/GULFPORT-MS","Paid Search",11,73,58,350,NULL,NULL,NULL
-"73_59_352","Medium Stores High Loyalty","BINGHAMTON-NY","Paid Search",11,73,59,352,NULL,NULL,NULL
-"73_60_350","Low Stores Low Loyalty","BIRMINGHAM-AL","Paid Search",11,73,60,350,NULL,NULL,NULL
-"73_61_351","Low Stores Medium Loyalty","BLUEFIELD-WV","Paid Search",11,73,61,351,NULL,NULL,NULL
-"73_62_353","Medium Stores Low Loyalty","BOISE-ID","Paid Search",11,73,62,353,NULL,NULL,NULL
-"73_63_352","Medium Stores High Loyalty","BOSTON-MA","Paid Search",11,73,63,352,NULL,NULL,NULL
-"73_64_352","Medium Stores High Loyalty","BOWLING GREEN-KY","Paid Search",11,73,64,352,NULL,NULL,NULL
-"73_65_352","Medium Stores High Loyalty","BUFFALO-NY","Paid Search",11,73,65,352,NULL,NULL,NULL
-"73_66_351","Low Stores Medium Loyalty","BRLGTN-PLATTSBG-VT","Paid Search",11,73,66,351,NULL,NULL,NULL
-"73_67_350","Low Stores Low Loyalty","BUTTE/BOZEMAN-MT","Paid Search",11,73,67,350,NULL,NULL,NULL
-"73_68_350","Low Stores Low Loyalty","CASPER/RIVERTON-WY","Paid Search",11,73,68,350,NULL,NULL,NULL
-"73_69_352","Medium Stores High Loyalty","CEDAR RAPIDS-IA","Paid Search",11,73,69,352,NULL,NULL,NULL
-"73_70_352","Medium Stores High Loyalty","CHMPGN/SPRINFD-IL","Paid Search",11,73,70,352,NULL,NULL,NULL
-"73_71_351","Low Stores Medium Loyalty","CHRLSTN/HNTNGTN-WV","Paid Search",11,73,71,351,NULL,NULL,NULL
-"73_72_350","Low Stores Low Loyalty","CHARLESTON-SC","Paid Search",11,73,72,350,NULL,NULL,NULL
-"73_73_353","Medium Stores Low Loyalty","CHARLOTTE-NC","Paid Search",11,73,73,353,NULL,NULL,NULL
-"73_74_350","Low Stores Low Loyalty","CHARLOTTESVILLE","Paid Search",11,73,74,350,NULL,NULL,NULL
-"73_75_350","Low Stores Low Loyalty","CHATTANOOGA-TN","Paid Search",11,73,75,350,NULL,NULL,NULL
-"73_76_350","Low Stores Low Loyalty","CHEYENNE- WY","Paid Search",11,73,76,350,NULL,NULL,NULL
-"73_77_354","High Stores High Loyalty","CHICAGO-IL","Paid Search",11,73,77,354,NULL,NULL,NULL
-"73_78_352","Medium Stores High Loyalty","CHICO/REDDING-CA","Paid Search",11,73,78,352,NULL,NULL,NULL
-"73_79_352","Medium Stores High Loyalty","CINCINNATI-OH","Paid Search",11,73,79,352,NULL,NULL,NULL
-"73_80_351","Low Stores Medium Loyalty","CLARKSBURG-WV","Paid Search",11,73,80,351,NULL,NULL,NULL
-"73_81_352","Medium Stores High Loyalty","CLEVELAND-OH","Paid Search",11,73,81,352,NULL,NULL,NULL
-"73_82_352","Medium Stores High Loyalty","COLORADO SPRNGS-CO","Paid Search",11,73,82,352,NULL,NULL,NULL
-"73_83_352","Medium Stores High Loyalty","COLMBA/JEFFRSON-MO","Paid Search",11,73,83,352,NULL,NULL,NULL
-"73_84_352","Medium Stores High Loyalty","COLUMBIA-SC","Paid Search",11,73,84,352,NULL,NULL,NULL
-"73_85_350","Low Stores Low Loyalty","COLMBS/TPLO/WPT-MS","Paid Search",11,73,85,350,NULL,NULL,NULL
-"73_86_350","Low Stores Low Loyalty","COLUMBUS-GA","Paid Search",11,73,86,350,NULL,NULL,NULL
-"73_87_352","Medium Stores High Loyalty","COLUMBUS-OH","Paid Search",11,73,87,352,NULL,NULL,NULL
-"73_88_352","Medium Stores High Loyalty","CORPUS CHRISTI-TX","Paid Search",11,73,88,352,NULL,NULL,NULL
-"73_89_353","Medium Stores Low Loyalty","DALLAS-TX","Paid Search",11,73,89,353,NULL,NULL,NULL
-"73_90_351","Low Stores Medium Loyalty","DAVENPORT-IA","Paid Search",11,73,90,351,NULL,NULL,NULL
-"73_91_352","Medium Stores High Loyalty","DAYTON-OH","Paid Search",11,73,91,352,NULL,NULL,NULL
-"73_92_352","Medium Stores High Loyalty","DENVER-CO","Paid Search",11,73,92,352,NULL,NULL,NULL
-"73_93_353","Medium Stores Low Loyalty","DES MOINES-IA","Paid Search",11,73,93,353,NULL,NULL,NULL
-"73_94_352","Medium Stores High Loyalty","DETROIT-MI","Paid Search",11,73,94,352,NULL,NULL,NULL
-"73_95_350","Low Stores Low Loyalty","DOTHAN-AL","Paid Search",11,73,95,350,NULL,NULL,NULL
-"73_96_352","Medium Stores High Loyalty","DULUTH-MN","Paid Search",11,73,96,352,NULL,NULL,NULL
-"73_97_353","Medium Stores Low Loyalty","EL PASO-TX","Paid Search",11,73,97,353,NULL,NULL,NULL
-"73_98_351","Low Stores Medium Loyalty","ELMIRA-NY","Paid Search",11,73,98,351,NULL,NULL,NULL
-"73_99_352","Medium Stores High Loyalty","ERIE-PA","Paid Search",11,73,99,352,NULL,NULL,NULL
 "75_100_350","Low Stores Low Loyalty","EUGENE-OR","Display",11,75,100,350,NULL,NULL,NULL
 "75_101_350","Low Stores Low Loyalty","EUREKA-CA","Display",11,75,101,350,NULL,NULL,NULL
 "75_102_351","Low Stores Medium Loyalty","EVANSVILLE-IN","Display",11,75,102,351,NULL,NULL,NULL
@@ -1223,9 +1221,7 @@
 "78_133_352","Medium Stores High Loyalty","LA CRSE/EAU CL-WI","Tab Midweek",11,78,133,352,NULL,NULL,NULL
 "78_134_352","Medium Stores High Loyalty","LAFAYETTE-IN","Tab Midweek",11,78,134,352,NULL,NULL,NULL
 "78_135_350","Low Stores Low Loyalty","LAFAYETTE-LA","Tab Midweek",11,78,135,350,NULL,NULL,NULL
-"78_136_350","Low Stores Low Loyalty","LAKE CHARLES-LA","Tab Midweek",11,78,136,350,NULL,NULL,NULL
 "78_137_352","Medium Stores High Loyalty","LANSING/JACKSON-MI","Tab Midweek",11,78,137,352,NULL,NULL,NULL
-"78_138_353","Medium Stores Low Loyalty","LAREDO-TX","Tab Midweek",11,78,138,353,NULL,NULL,NULL
 "78_139_353","Medium Stores Low Loyalty","LAS VEGAS-NV","Tab Midweek",11,78,139,353,NULL,NULL,NULL
 "78_140_353","Medium Stores Low Loyalty","LEXINGTON-KY","Tab Midweek",11,78,140,353,NULL,NULL,NULL
 "78_141_351","Low Stores Medium Loyalty","LIMA-OH","Tab Midweek",11,78,141,351,NULL,NULL,NULL
@@ -1314,14 +1310,12 @@
 "78_227_351","Low Stores Medium Loyalty","WAUSAU-WI","Tab Midweek",11,78,227,351,NULL,NULL,NULL
 "78_228_351","Low Stores Medium Loyalty","WEST PALM BEACH-FL","Tab Midweek",11,78,228,351,NULL,NULL,NULL
 "78_229_351","Low Stores Medium Loyalty","WHEELING-WV","Tab Midweek",11,78,229,351,NULL,NULL,NULL
-"78_230_352","Medium Stores High Loyalty","WICHITA-KS","Tab Midweek",11,78,230,352,NULL,NULL,NULL
 "78_231_351","Low Stores Medium Loyalty","WILKES-BARRE-PA","Tab Midweek",11,78,231,351,NULL,NULL,NULL
 "78_232_352","Medium Stores High Loyalty","WILMINGTON-NC","Tab Midweek",11,78,232,352,NULL,NULL,NULL
 "78_233_350","Low Stores Low Loyalty","YAKIMA-WA","Tab Midweek",11,78,233,350,NULL,NULL,NULL
 "78_234_352","Medium Stores High Loyalty","YOUNGSTOWN-OH","Tab Midweek",11,78,234,352,NULL,NULL,NULL
 "78_235_350","Low Stores Low Loyalty","YUMA-AZ","Tab Midweek",11,78,235,350,NULL,NULL,NULL
 "78_236_351","Low Stores Medium Loyalty","ZANESVILLE-OH","Tab Midweek",11,78,236,351,NULL,NULL,NULL
-"78_237_265","Other","LAWTON-TX","Tab Midweek",11,78,237,265,NULL,NULL,NULL
 "78_238_265","Other","SAVANNAH-GA","Tab Midweek",11,78,238,265,NULL,NULL,NULL
 "78_239_265","Other","KIRKSVILLE-IA","Tab Midweek",11,78,239,265,NULL,NULL,NULL
 "78_42_350","Low Stores Low Loyalty","ABILENE-TX","Tab Midweek",11,78,42,350,NULL,NULL,NULL
@@ -1350,13 +1344,11 @@
 "78_65_352","Medium Stores High Loyalty","BUFFALO-NY","Tab Midweek",11,78,65,352,NULL,NULL,NULL
 "78_66_351","Low Stores Medium Loyalty","BRLGTN-PLATTSBG-VT","Tab Midweek",11,78,66,351,NULL,NULL,NULL
 "78_67_350","Low Stores Low Loyalty","BUTTE/BOZEMAN-MT","Tab Midweek",11,78,67,350,NULL,NULL,NULL
-"78_68_350","Low Stores Low Loyalty","CASPER/RIVERTON-WY","Tab Midweek",11,78,68,350,NULL,NULL,NULL
 "78_69_352","Medium Stores High Loyalty","CEDAR RAPIDS-IA","Tab Midweek",11,78,69,352,NULL,NULL,NULL
 "78_70_352","Medium Stores High Loyalty","CHMPGN/SPRINFD-IL","Tab Midweek",11,78,70,352,NULL,NULL,NULL
 "78_71_351","Low Stores Medium Loyalty","CHRLSTN/HNTNGTN-WV","Tab Midweek",11,78,71,351,NULL,NULL,NULL
 "78_72_350","Low Stores Low Loyalty","CHARLESTON-SC","Tab Midweek",11,78,72,350,NULL,NULL,NULL
 "78_73_353","Medium Stores Low Loyalty","CHARLOTTE-NC","Tab Midweek",11,78,73,353,NULL,NULL,NULL
-"78_74_350","Low Stores Low Loyalty","CHARLOTTESVILLE","Tab Midweek",11,78,74,350,NULL,NULL,NULL
 "78_75_350","Low Stores Low Loyalty","CHATTANOOGA-TN","Tab Midweek",11,78,75,350,NULL,NULL,NULL
 "78_76_350","Low Stores Low Loyalty","CHEYENNE- WY","Tab Midweek",11,78,76,350,NULL,NULL,NULL
 "78_77_354","High Stores High Loyalty","CHICAGO-IL","Tab Midweek",11,78,77,354,NULL,NULL,NULL
